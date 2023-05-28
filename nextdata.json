@@ -1,0 +1,2984 @@
+{
+  "props": {
+  "pageProps": {
+    "data": {
+      "allCategories": [
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/ar-e-ventilacao/l/ar/",
+            "breadcrumbAlias": "Ar e Ventilação",
+            "description": "As melhores ofertas de ar condicionado, ventiladores e climatizadores estão aqui no Magazine Luiza! Corre pra aproveitar os melhores preços e condições!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Os produtos de ar e ventila&ccedil;&atilde;o s&atilde;o perfeitos pra refrescar os c&ocirc;modos nos dias mais quentes, n&eacute;? O ar-condicionado e o ventilador j&aacute; viraram parte importante da casa dos brasileiros. Mas n&atilde;o para por a&iacute;, afinal, n&atilde;o faltam op&ccedil;&otilde;es pro ano todo! D&aacute; pra escolher entre ventilador de mesa, ventilador de teto, ar-condicionado port&aacute;til, climatizador de ar, e por a&iacute; vai. Quer entender qual produto funciona melhor pra sua casa em cada esta&ccedil;&atilde;o do ano? Olha s&oacute;:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Ar e Ventilação",
+          "id": "AR",
+          "description": "Ar e Ventilação",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/artesanato/l/am/",
+            "breadcrumbAlias": "Artesanato",
+            "description": "Artigos de Armarinhos, Artigos para festa e Produtos para Artesanato com os melhores preços você encontra aqui no Magazine Luiza! Clique e aproveite! ;)",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, o artesanato &eacute; uma t&eacute;cnica utilizada para criar objetos e outros itens com as m&atilde;os. &Eacute; tamb&eacute;m super indicado para quem quer ter um novo passatempo para quebrar a rotina ou tamb&eacute;m ter uma fonte de renda extra. Como cada t&eacute;cnica &eacute; focada em um tipo de material, com certeza voc&ecirc; vai se identificar com uma delas. Quer saber mais sobre outros tipos de artesanatos? Vem comigo!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Artesanato",
+          "id": "AM",
+          "description": "Artesanato",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/artigos-para-festa/l/af/",
+            "breadcrumbAlias": "Artigos para Festa",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, a decora&ccedil;&atilde;o de festa faz toda a diferen&ccedil;a para criar um espa&ccedil;o animado e aconchegante, n&eacute;? Encontrar artigos para a festa que s&atilde;o a cara do evento ajuda muito a montar o ambiente do jeito que voc&ecirc; imaginou. Busque refer&ecirc;ncias e se jogue na criatividade.</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Artigos para Festa",
+          "id": "AF",
+          "description": "Artigos para Festa",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/audio/l/ea/",
+            "breadcrumbAlias": "Áudio",
+            "description": "Home Theater, Micro System e muito mais com as melhores ofertas, você compra aqui no Magazine Luiza! Vem conferir, vem!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, voc&ecirc;s j&aacute; viram todas as op&ccedil;&otilde;es de equipamentos de &aacute;udio &agrave; venda? S&atilde;o fones de ouvido com e sem fio, caixas de som e at&eacute; aparelhos pra deixar a casa com verdadeiro som de cinema, como o home theater. Legal n&eacute;? Sei que &eacute; dif&iacute;cil escolher o ideal, por isso separei algumas dicas pra te ajudar a se decidir e definir quais s&atilde;o os dispositivos de &aacute;udio perfeitos pra voc&ecirc;. Vem comigo!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Áudio",
+          "id": "EA",
+          "description": "Áudio",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/automotivo/l/au/",
+            "breadcrumbAlias": "Automotivo",
+            "description": "Encontre Pneus, Som automotivo, Kit multimídia, Acessórios para Carros, Motos e Caminhões com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">S&atilde;o tantas op&ccedil;&otilde;es de itens automotivos que voc&ecirc; ainda n&atilde;o conseguiu escolher o que quer para o seu carro ou moto, n&eacute;? S&atilde;o diversos acess&oacute;rios, como baterias, freios e capas protetoras, que &eacute; dif&iacute;cil escolher. E sem deixar de lado a parte est&eacute;tica, afinal, ele precisa estar bem cuidado! Ent&atilde;o vem comigo conhecer um pouco mais sobre os diversos itens que v&atilde;o melhorar seu ve&iacute;culo e deixar a manuten&ccedil;&atilde;o em dia.</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Automotivo",
+          "id": "AU",
+          "description": "Automotivo",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/bebe/l/bb/",
+            "breadcrumbAlias": "Bebês",
+            "description": "Os produtos que o seu bebê precisa estão aqui no Magazine Luiza! Tudo o que você precisa para a chegada so seu bebê com os melhores preços, é aqui!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os produtos pros beb&ecirc;s al&eacute;m de funcionais s&atilde;o uma fofura, n&eacute;? Eu adoro! Perfeitos pras mam&atilde;es e papais que querem proporcionar conforto e qualidade pros pequenos. Tem carrinhos, andadores, cadeirinha pro carro, e por a&iacute; vai! T&aacute; com d&uacute;vida em como escolher os itens essenciais pro seu beb&ecirc;? Vem comigo que eu te explico!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Bebês",
+          "id": "BB",
+          "description": "Bebês",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/beleza-e-perfumaria/l/pf/",
+            "breadcrumbAlias": "Beleza & Perfumaria",
+            "description": "Perfumes nacionais, importados masculinos e femininos com os melhores preços você encontra no Magazine Luiza! Venha escolher o seu aqui! ;)",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os produtos de beleza s&atilde;o itens essenciais pra quem gosta de cuidar de si mesmo, viu? As op&ccedil;&otilde;es s&atilde;o variadas, pra agradar todo mundo! Tem secador de cabelo, escova secadora, barbeador el&eacute;trico, chapinha, e muito mais! Os produtos de beleza tamb&eacute;m incluem maquiagens e perfumes, por exemplo. Tudo isso serve pra manter a autoestima, cuidar da sua imagem pessoal e se sentir bem! Quer entender como escolher os itens certos pra sua rotina? Olha s&oacute; o que eu preparei:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Beleza & Perfumaria",
+          "id": "PF",
+          "description": "Beleza & Perfumaria",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "",
+            "breadcrumbAlias": "Bem-estar Sexual",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, aqui no Magazine Luiza &eacute; poss&iacute;vel encontrar produtos de todos os tipos pro seu bem-estar sexual. Seja para apimentar a rela&ccedil;&atilde;o ou proporcionar momentos de prazer pessoal, existem itens pra todos os gostos! Vale a pena dar uma conferida, viu?</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Bem-estar Sexual",
+          "id": "BS",
+          "description": "Bem-estar Sexual",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/brinquedos/l/br/",
+            "breadcrumbAlias": "Brinquedos",
+            "description": "As melhores ofertas de Brinquedos estão no Magazine Luiza! Galinha pintadinha, Max Steel, Barbie, Motos elétricas e muito mais!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os brinquedos s&atilde;o os maiores companheiros das crian&ccedil;as. Al&eacute;m de divertir, os brinquedos tamb&eacute;m podem ensinar a ler, a compartilhar e a interagir com outras pessoas. O melhor &eacute; que h&aacute; uma infinidade de tipos, modelos e cores que, com certeza, v&atilde;o agradar mais o seu pequeno. Quer saber mais sobre esse mundo m&aacute;gico de brinquedo? Vem comigo!&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Brinquedos",
+          "id": "BR",
+          "description": "Brinquedos",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/cama-mesa-e-banho/l/cm/",
+            "breadcrumbAlias": "Cama, Mesa e Banho",
+            "description": "Encontre Cortinas, Persianas, Capa para colchões, Travesseiros com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, o Magalu est&aacute; cheio de &oacute;timas op&ccedil;&otilde;es de itens de cama, mesa e banho, n&atilde;o &eacute; mesmo? S&atilde;o cortinas, capas pra sof&aacute;s, travesseiros, tapetes e tantos outros produtos que deixam a nossa casa mais aconchegante e bonita, e &eacute; f&aacute;cil ficar na d&uacute;vida na hora de escolher, n&eacute;? Mas calma, que hoje eu t&ocirc; aqui pra te ajudar nessa miss&atilde;o! Continue lendo e veja as dicas que eu preparei pra voc&ecirc; acertar na escolha. Vamos l&aacute;?</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Cama, Mesa e Banho",
+          "id": "CM",
+          "description": "Cama, Mesa e Banho",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/cameras-e-drones/l/cf/",
+            "breadcrumbAlias": "Câmeras e Drones",
+            "description": "Câmeras esportivas, profissionais e aquáticas é aqui! Aproveite as melhores marcas, preços e condições aqui no Magazine Luiza!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, o drone e a c&acirc;mera fotogr&aacute;fica s&atilde;o equipamentos de imagem essenciais pra fot&oacute;grafos, cinegrafistas, blogueiros, viajantes e pessoas que filmam e fotografam por prazer. Esses aparelhos ajudam a gravar as cenas com bastante qualidade e podem ter fun&ccedil;&otilde;es incr&iacute;veis que deixam o dia a dia mais pr&aacute;tico, alguns por exemplo contam at&eacute; com recursos pra melhorar a seguran&ccedil;a! Gostou? Vem comigo que eu te conto os detalhes e mostro algumas op&ccedil;&otilde;es:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Câmeras e Drones",
+          "id": "CF",
+          "description": "Câmeras e Drones",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/casa-e-construcao/l/cj/",
+            "breadcrumbAlias": "Casa e Construção",
+            "description": "Lavadora de Alta Pressão, Churrasqueiras, Móveis para Jardim e artigos para Jardinagem com os melhores preços você encontra aqui no Magazine Luiza!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os itens de casa e constru&ccedil;&atilde;o s&atilde;o ferramentas que v&atilde;o te ajudar a colocar a m&atilde;o na massa e fazer pequenos reparos na sua casa e at&eacute; algumas reformas nos c&ocirc;modos! Eles s&atilde;o ideais pra quem tem habilidades manuais e que gostam de ter esse conhecimento caso tenha algum imprevisto dentro de casa. Quer saber mais sobre as utilidades dos itens de casa e constru&ccedil;&atilde;o? Vem comigo, que eu vou contar tudo!&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Casa e Construção",
+          "id": "CJ",
+          "description": "Casa e Construção",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/casa-inteligente/l/ci/",
+            "breadcrumbAlias": "Casa Inteligente",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, ter uma casa inteligente t&aacute; se tornando cada vez mais comum e &uacute;til pro dia a dia, viu? Quem t&aacute; conectado o tempo inteiro sabe que acess&oacute;rios como a fechadura digital e a l&acirc;mpada inteligente s&atilde;o &oacute;timos pra deixar a rotina mais organizada e f&aacute;cil. E a&iacute;, quer entender melhor como funciona uma casa inteligente e de que forma voc&ecirc; pode transformar a sua? Vem comigo que eu te explico:&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Casa Inteligente",
+          "id": "CI",
+          "description": "Casa Inteligente",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/celulares-e-smartphones/l/te/",
+            "breadcrumbAlias": "Celular e Smartphone",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os lan&ccedil;amentos de </span><a href=\"https://www.magazineluiza.com.br/smartphone/celulares-e-smartphones/s/te/tcsp/\"><span style=\"font-weight: 400;\">smartphone</span></a><span style=\"font-weight: 400;\"> est&atilde;o cada dia mais incr&iacute;veis, n&eacute;? Aqui no Magazine Luiza, voc&ecirc; encontra uma grande variedade de modelos pra escolher o melhor pra voc&ecirc;. C&acirc;meras de alta resolu&ccedil;&atilde;o, bateria de longa dura&ccedil;&atilde;o, grande espa&ccedil;o de mem&oacute;ria interna pra guardar todos os seus arquivos e op&ccedil;&otilde;es que cabem no seu bolso. Demais, n&eacute;? Vem encontrar um celular para chamar de seu!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Celular e Smartphone",
+          "id": "TE",
+          "description": "Celular e Smartphone",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/colchoes/l/co/",
+            "breadcrumbAlias": "Colchões",
+            "description": "Encontre Colchões, Cama Box, Cabeceiras e Bases para cama com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, escolher colch&otilde;es &eacute; uma tarefa muito importante, n&eacute;? Afinal, &eacute; o lugar que voc&ecirc; vai se deitar pra relaxar depois de um dia cansativo de trabalho e aproveitar um dos grandes prazeres da vida: dormir. Ent&atilde;o, se voc&ecirc; quer encontrar o colch&atilde;o ideal, vem pro Magalu que n&atilde;o tem erro, hein?</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Colchões",
+          "id": "CO",
+          "description": "Colchões",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/comercio-e-industria/l/pi/",
+            "breadcrumbAlias": "Comércio e Indústria",
+            "description": "Aqui você encontra a maior variedade de produtos industriais e comerciais. Cervejeiras, expositores e freezer com os melhores preços, é aqui!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">T&aacute; procurando produtos pro seu com&eacute;rcio e ind&uacute;stria? Aqui no Magalu tem diversas op&ccedil;&otilde;es que podem te ajudar na reforma, organiza&ccedil;&atilde;o, prote&ccedil;&atilde;o dos colaboradores e at&eacute; mesmo pra tornar as suas vendas mais r&aacute;pidas e seguras, viu? Quer conhecer um pouco mais de todas essas op&ccedil;&otilde;es? Eu te conto tudo sobre os produtos pra com&eacute;rcio e ind&uacute;stria aqui do Magalu.</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Comércio e Indústria",
+          "id": "PI",
+          "description": "Comércio e Indústria",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "",
+            "breadcrumbAlias": "Cursos",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os cursos s&atilde;o &oacute;timas op&ccedil;&otilde;es pra quem quer se profissionalizar em uma determinada &aacute;rea e seguir como carreira! Eles v&atilde;o te dar todo o conhecimento necess&aacute;rio pra voc&ecirc; entrar no mercado de trabalho com mais qualifica&ccedil;&otilde;es. E o melhor &eacute; que, como as aulas s&atilde;o em v&iacute;deo, d&aacute; pra assistir de qualquer lugar e na hora que quiser! Super pr&aacute;tico, n&eacute;? Quer saber mais sobre os cursos? Vem comigo que eu te mostro algumas op&ccedil;&otilde;es!&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Cursos",
+          "id": "CR",
+          "description": "Cursos",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/decoracao/l/de/",
+            "breadcrumbAlias": "Decoração",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, nada melhor do que fazer uma decora&ccedil;&atilde;o bacana em casa pra deixar o lar mais aconchegante, n&eacute;? D&aacute; pra usar a criatividade e deixar cada c&ocirc;modo do seu jeitinho! Sendo assim, na hora de decorar, procure por um bom papel de parede, vasos decorativos, espelhos e muito mais. Com certeza voc&ecirc; vai encontrar um estilo que tem tudo a ver com a sua personalidade. Quer saber mais sobre decora&ccedil;&atilde;o pra sua casa? Olha o que eu preparei:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Decoração",
+          "id": "DE",
+          "description": "Decoração",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/eletrodomesticos/l/ed/",
+            "breadcrumbAlias": "Eletrodomésticos",
+            "description": "As melhores ofertas de eletrodomésticos que a sua casa precisa! Refrigeradores, freezers, fogões, micro-ondas, lavadoras e muito mais, é no Magazine Luiza!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, eletrodom&eacute;sticos s&atilde;o essenciais pra facilitar as tarefas do dia a dia, n&eacute;?&nbsp; Ter aquele </span><a href=\"https://www.magazineluiza.com.br/micro-ondas-e-pecas/eletrodomesticos/s/ed/miac/\"><span style=\"font-weight: 400;\">micro-ondas</span></a><span style=\"font-weight: 400;\"> pra esquentar os alimentos rapidinho ou uma geladeira bem espa&ccedil;osa pra manter tudo bem refrigerado e organizado, &eacute; uma maravilha!&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Eletrodomésticos",
+          "id": "ED",
+          "description": "Eletrodomésticos",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/eletroportateis/l/ep/",
+            "breadcrumbAlias": "Eletroportáteis",
+            "description": "Encontre Fritadeiras, Liquidificadores, Cafeteiras e Aspiradores de Pó com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os eletroport&aacute;teis s&atilde;o equipamentos que funcionam apenas ligados na tomada, ou seja, precisam de energia el&eacute;trica pra ajudar na rotina, e voc&ecirc; pode levar pra onde quiser. Al&eacute;m disso, muitas tarefas do nosso dia a dia s&atilde;o feitas com mais agilidade e seguran&ccedil;a, viu? Alguns exemplos s&atilde;o as panelas el&eacute;tricas e sanduicheiras. T&ecirc;m diversos modelos, vem comigo que eu te conto mais:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Eletroportáteis",
+          "id": "EP",
+          "description": "Eletroportáteis",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/esporte-e-lazer/l/es/",
+            "breadcrumbAlias": "Esporte e Lazer",
+            "description": "Esporte e Lazer em promoção, tem no Magalu! Os menores preços em Esporte e Lazer com entrega garantida você encontra aqui. Confira!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, itens de esporte e lazer como </span><a href=\"https://www.magazineluiza.com.br/esteira-ergometrica/esporte-e-lazer/s/es/este/\"><span style=\"font-weight: 400;\">esteira ergom&eacute;trica</span></a><span style=\"font-weight: 400;\">, </span><a href=\"https://www.magazineluiza.com.br/bicicleta/esporte-e-lazer/s/es/bclt/\"><span style=\"font-weight: 400;\">bicicleta</span></a><span style=\"font-weight: 400;\">, </span><a href=\"https://www.magazineluiza.com.br/scooter/esporte-e-lazer/s/es/scoo/\"><span style=\"font-weight: 400;\">scooter</span></a><span style=\"font-weight: 400;\"> e </span><a href=\"https://www.magazineluiza.com.br/patins-e-acessorios/esporte-e-lazer/s/es/pati/\"><span style=\"font-weight: 400;\">patins</span></a><span style=\"font-weight: 400;\">, s&atilde;o bem populares com quem quer perder peso, deixar os m&uacute;sculos mais fortes, praticar uma atividade nova ou simplificar a rotina. Tem at&eacute; op&ccedil;&otilde;es legais pra usar como meio de transporte. Um luxo! Gostou? Vem comigo que eu te conto os detalhes:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Esporte e Lazer",
+          "id": "ES",
+          "description": "Esporte e Lazer",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/ferramentas/l/fs/",
+            "breadcrumbAlias": "Ferramentas",
+            "description": "As melhores ofertas de ferramentas e produtos para segurança da sua casa você encontra aqui no Magazine Luiza! Vem conferir ;)",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, as ferramentas d&atilde;o aquela forcinha extra na hora de reformar, montar </span><a href=\"https://www.magazineluiza.com.br/moveis/l/mo/\"><span style=\"font-weight: 400;\">m&oacute;veis</span></a><span style=\"font-weight: 400;\">, consertar m&aacute;quinas, trocar </span><a href=\"https://www.magazineluiza.com.br/pneu-para-carro/automotivo/s/au/aupa/\"><span style=\"font-weight: 400;\">pneus</span></a><span style=\"font-weight: 400;\"> e at&eacute; pra criar itens de </span><a href=\"https://www.magazineluiza.com.br/artesanato/l/am/\"><span style=\"font-weight: 400;\">artesanato</span></a><span style=\"font-weight: 400;\">, viu? O melhor &eacute; que voc&ecirc; encontra um monte de op&ccedil;&otilde;es diferentes e com fun&ccedil;&otilde;es pr&oacute;prias pra cada atividade, como lixar, cortar, prender e furar. Quer conhecer algumas pe&ccedil;as e saber os detalhes? Vem comigo:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Ferramentas",
+          "id": "FS",
+          "description": "Ferramentas",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/filmes-e-series/l/fm/",
+            "breadcrumbAlias": "Filmes e Séries",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, pegar uma pipoca e relaxar no sof&aacute; assistindo filmes e s&eacute;ries &eacute; tudo de bom, n&eacute;? A distra&ccedil;&atilde;o perfeita depois de um longo dia. D&aacute; pra maratonar, acompanhar sozinho, rir e chorar junto com a fam&iacute;lia ou os amigos, quem decide &eacute; voc&ecirc;! E tem op&ccedil;&otilde;es de todo tipo, da com&eacute;dia ao terror. Eu adoro! T&aacute; com vontade de aumentar a sua cole&ccedil;&atilde;o? Vem que eu te ajudo a encontrar as melhores escolhas:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Filmes e Séries",
+          "id": "FM",
+          "description": "Filmes e Séries",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "",
+            "breadcrumbAlias": "Flores e Jardim",
+            "description": "",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os itens de flores e jardim s&atilde;o ideais pra arrasar na </span><a href=\"https://www.magazineluiza.com.br/decoracao/l/de/\"><span style=\"font-weight: 400;\">decora&ccedil;&atilde;o</span></a><span style=\"font-weight: 400;\"> de espa&ccedil;os e trazer beleza e harmonia pro ambiente, viu? O legal &eacute; que d&aacute; pra encontrar v&aacute;rios tipos e tamanhos diferentes de </span><a href=\"https://www.magazineluiza.com.br/plantas/flores-e-jardim/s/fj/plnt/\"><span style=\"font-weight: 400;\">plantas</span></a><span style=\"font-weight: 400;\">, </span><a href=\"https://www.magazineluiza.com.br/flores/flores-e-jardim/s/fj/flrs/\"><span style=\"font-weight: 400;\">flores</span></a><span style=\"font-weight: 400;\"> e </span><a href=\"https://www.magazineluiza.com.br/vasos/flores-e-jardim/s/fj/vpta/\"><span style=\"font-weight: 400;\">vasos</span></a><span style=\"font-weight: 400;\">, al&eacute;m de </span><a href=\"https://www.magazineluiza.com.br/ferramentas-para-jardim/flores-e-jardim/s/fj/ftjd/\"><span style=\"font-weight: 400;\">ferramentas</span></a><span style=\"font-weight: 400;\"> indicadas no dia a dia dos cuidados do </span><a href=\"https://www.magazineluiza.com.br/jardim/flores-e-jardim/s/fj/jdim/\"><span style=\"font-weight: 400;\">jardim</span></a><span style=\"font-weight: 400;\">. Quer conhecer alguns artigos? Ent&atilde;o vem comigo:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Flores e Jardim",
+          "id": "FJ",
+          "description": "Flores e Jardim",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/games/l/ga/",
+            "breadcrumbAlias": "Games",
+            "description": "Encontre tudo sobre games e os lançamentos de jogos com os melhores preços. Opções de consoles Xbox, PlayStation, você encontra aqui no Magazine Luiza!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os games divertem pessoas de todas as </span><a href=\"https://www.magazineluiza.com.br/consoles-e-jogos-classicos/games/s/ga/cojc/\"><span style=\"font-weight: 400;\">idades</span></a><span style=\"font-weight: 400;\">, desde os mais pequenos, at&eacute; os adultos. E o mais legal &eacute; que tem jogos de videogame pra todos os gostos. Tem de corrida, aventura, estrat&eacute;gia, games de suspense e at&eacute; de dan&ccedil;a. Quer saber maisquais os tipos de games dispon&iacute;veis? Vem comigo, que eu vou te mostrar!&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Games",
+          "id": "GA",
+          "description": "Games",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/informatica/l/in/",
+            "breadcrumbAlias": "Informática",
+            "description": "Informática: Notebooks, PC e muito mais em promoção, tem no Magalu! Os menores preços em Informática com entrega garantida você encontra aqui. Confira!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Inform&aacute;tica faz parte do dia a dia, n&eacute;? O computador e notebook servem tanto como ferramentas de trabalho como pra relaxar assistindo sua s&eacute;rie favorita. Por isso, &eacute; importante ter aparelhos de qualidade e escolher aquele que atende todas as suas necessidades, combinado?</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Informática",
+          "id": "IN",
+          "description": "Informática",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/instrumentos-musicais/l/im/",
+            "breadcrumbAlias": "Instrumentos Musicais",
+            "description": "Ofertas em instrumentos musicais, as melhores condições e variedades você encontra aqui no Magazine Luiza! Venha conferir!",
+            "seoBlock": "<p>Gente, tem v&aacute;rios instrumentos musicais como o acordeon, <a href=\"https://www.magazineluiza.com.br/violao/instrumentos-musicais/s/im/isvi/\">viol&atilde;o</a>, <a href=\"https://www.magazineluiza.com.br/piano/instrumentos-musicais/s/im/ispi/\">piano</a> e <a href=\"https://www.magazineluiza.com.br/bateria-e-percussao/instrumentos-musicais/s/im/baoa/\">bateria</a> que s&atilde;o &oacute;timos pra curtir numa roda de amigos, deixar o clima rom&acirc;ntico num jantar e at&eacute; estudar! E como d&aacute; pra achar modelos com sons suaves, encorpados ou at&eacute; met&aacute;licos, &eacute; s&oacute; combinar v&aacute;rios deles pra criar can&ccedil;&otilde;es incr&iacute;veis. Quer conhecer mais? Vem comigo que eu te conto os detalhes e mostro uns tipos legais:</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Instrumentos Musicais",
+          "id": "IM",
+          "description": "Instrumentos Musicais",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/livros/l/li/",
+            "breadcrumbAlias": "Livros",
+            "description": "Livros Infantis, Autoajuda, Fantasia, Religião e Mapas com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p>Gente, n&atilde;o tem como negar que livros s&atilde;o tudo de bom n&eacute;? Podemos viajar sem sair de casa, conhecer lindas hist&oacute;rias e novas culturas com a literatura. T&ecirc;m livros pra todos os gostos: fic&ccedil;&atilde;o, hist&oacute;rias reais, livros educativos e de autoajuda. N&atilde;o sei se voc&ecirc; sabe, mas eu tenho uma biblioteca enorme aqui na minha loja e, agora, vou falar desse assunto que eu gosto tanto. Vamos l&aacute;?</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Livros",
+          "id": "LI",
+          "description": "Livros",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/mercado/l/me/",
+            "breadcrumbAlias": "Mercado",
+            "description": "Agora é o mercado que vai até você! As melhores ofertas de produtos de limpeza, cuidados pessoais, bebidas e alimentos você encontra aqui no Magazine Luiza!",
+            "seoBlock": "<p>Gente, fazer mercado &eacute; tudo de bom, n&eacute;? Aqui no Magalu voc&ecirc; encontra v&aacute;rios itens dessa categoria, de marcas diferenciadas pra comprar e abastecer a sua casa! Tem <a href=\"https://www.magazineluiza.com.br/alimentos-congelados/mercado/s/me/cong/\">congelados</a>, <a href=\"https://www.magazineluiza.com.br/doces-e-sobremesas/mercado/s/me/dcsm/\">doces e sobremesas</a>, <a href=\"https://www.magazineluiza.com.br/hortifruti/mercado/s/me/hort/\">hortifruti</a> e muito mais. Vem que eu te mostro:</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Mercado",
+          "id": "ME",
+          "description": "Mercado",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/moda-e-acessorios/l/md/",
+            "breadcrumbAlias": "Moda",
+            "description": "Encontre Roupas Masculinas, Femininas, Acessórios, Bolsas e Pantufas com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p>Gente, os itens de moda e acess&oacute;rios s&atilde;o muito usados por quem quer se destacar e mostrar um pouco da sua personalidade atrav&eacute;s do visual. E o mais legal &eacute; que t&ecirc;m muitos estilos e cores diferentes. Ent&atilde;o, com certeza vai ter um estilo que combine com voc&ecirc;. Quer saber mais sobre esse assunto? Vem comigo que eu te conto tudo!</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Moda",
+          "id": "MD",
+          "description": "Moda",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/moveis/l/mo/",
+            "breadcrumbAlias": "Móveis",
+            "description": "Encontre Guarda-roupa, Cadeiras de escritório, Sofás e Escrivaninhas com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p class=\"normal\" style=\"text-align: justify;\"><span style=\"font-size: 12.0pt; line-height: 115%;\">Gente, os m&oacute;veis fazem parte do nosso lar e do nosso escrit&oacute;rio e, al&eacute;m de serem muito funcionais pro dia a dia, d&atilde;o um charme especial pro ambiente. Se voc&ecirc; est&aacute; procurando variedades de modelos, cores, tamanhos e estilos de m&oacute;veis como guarda-roupa, arm&aacute;rio de cozinha, m&oacute;veis pro escrit&oacute;rio e muitos outros, achou o seu lugar! Vem comigo que te mostro:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Móveis",
+          "id": "MO",
+          "description": "Móveis",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/musica-e-shows/l/ms/",
+            "breadcrumbAlias": "Música e Shows",
+            "description": "",
+            "seoBlock": "<p>Gente, as m&uacute;sicas e shows s&atilde;o op&ccedil;&otilde;es incr&iacute;veis pra alegrar momentos com a galera, relaxar depois do trabalho ou se distrair no fim do dia, n&eacute;? E o bom &eacute; que d&aacute; pra achar discos bem legais de ritmos como <a href=\"https://www.magazineluiza.com.br/musica-e-shows-de-rock-nacional-e-internacional/musica-e-shows/s/ms/rnri/\">Rock</a>, <a href=\"https://www.magazineluiza.com.br/musica-e-shows-de-mpb/musica-e-shows/s/ms/msmp/\">MPB</a>, <a href=\"https://www.magazineluiza.com.br/musica-e-shows-de-funk/musica-e-shows/s/ms/funk/\">Funk</a>, <a href=\"https://www.magazineluiza.com.br/musica-e-shows-de-axe/musica-e-shows/s/ms/axee/\">Ax&eacute;</a> e at&eacute; estilos <a href=\"https://www.magazineluiza.com.br/musica-e-shows-gospel-e-religioso/musica-e-shows/s/ms/gore/\">religiosos</a>. Adorei! Quer saber mais detalhes e conhecer melhor alguns g&ecirc;neros populares? Vem comigo:</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Música e Shows",
+          "id": "MS",
+          "description": "Música e Shows",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/natal/l/na/",
+            "breadcrumbAlias": "Natal",
+            "description": "Encontre o presente de Natal perfeito para sua família. Tudo com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p>Gente, o Natal &eacute; uma &eacute;poca m&aacute;gica e que encanta a todos, das crian&ccedil;as at&eacute; os mais velhos. &Eacute; quase imposs&iacute;vel que, com a chegada de dezembro, a gente n&atilde;o tenha vontade de decorar a casa toda, n&eacute;? Afinal, os enfeites natalinos s&atilde;o lindos demais e &eacute; incr&iacute;vel vivenciar essa data! Que tal aproveitar e conhecer um pouco mais sobre os itens de Natal aqui no Magalu? Vem comigo!</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Natal",
+          "id": "NA",
+          "description": "Natal",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/papelaria/l/pa/",
+            "breadcrumbAlias": "Papelaria",
+            "description": "Ofertas de Material Escolar e Material de Escritório, é aqui no Magazine Luiza! Vem aproveitar os melhores preços e variedade em Papelaria!",
+            "seoBlock": "<p>Gente, papelaria &eacute; tudo de bom, n&eacute;? Facilita a vida de quem precisa de organiza&ccedil;&atilde;o nos estudos, no trabalho ou em alguma atividade de decora&ccedil;&atilde;o. E o mais legal &eacute; que tem itens pra todos os gostos e necessidades! <a href=\"https://www.magazineluiza.com.br/caderno/papelaria/s/pa/cecd/\">Cadernos</a>, <a href=\"https://www.magazineluiza.com.br/planner/papelaria/s/pa/pnrn/\">planner</a>, <a href=\"https://www.magazineluiza.com.br/fichario-escolar-universitario/papelaria/s/pa/fhar/\">fich&aacute;rio</a>, canetas, e por a&iacute; vai! T&aacute; querendo renovar a sua mesa de estudos ou de trabalho? Vem que eu te mostro as melhores op&ccedil;&otilde;es!</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Papelaria",
+          "id": "PA",
+          "description": "Papelaria",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/pet-shop/l/pe/",
+            "breadcrumbAlias": "Pet Shop",
+            "description": "Pet Shop em oferta é aqui no Magazine Luiza! Clique e confira as melhores promoções de produtos de Pet Shop! Vem aproveitar! ;)",
+            "seoBlock": "<p>Gente, os itens de pet shop s&atilde;o acess&oacute;rios e produtos indicados pra deixar seu bichinho de estima&ccedil;&atilde;o protegido e confort&aacute;vel. Cuidando do bem-estar do seu melhor amigo, ele ficar&aacute; muito mais saud&aacute;vel e pronto pra qualquer aventura! E s&atilde;o diversos acess&oacute;rios que voc&ecirc; pode comprar, desde brinquedos at&eacute; diferentes tipos de petiscos. Quer saber mais sobre o mundo dos pets? Vem comigo!</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Pet Shop",
+          "id": "PE",
+          "description": "Pet Shop",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "",
+            "breadcrumbAlias": "Religião e Espiritualidade",
+            "description": "",
+            "seoBlock": "<p class=\"normal\" style=\"text-align: justify;\"><span style=\"font-size: 12.0pt; line-height: 115%;\">Gente, </span><a href=\"https://www.magazineluiza.com.br/mandala-decorativa/decoracao/s/de/mdld/\"><span style=\"font-size: 12.0pt; line-height: 115%; color: #1155cc;\">mandalas</span></a><span style=\"font-size: 12.0pt; line-height: 115%;\">, </span><a href=\"https://www.magazineluiza.com.br/velas-e-acessorios/religiao-e-espiritualidade/s/rg/veac/\"><span style=\"font-size: 12.0pt; line-height: 115%; color: #1155cc;\">velas</span></a><span style=\"font-size: 12.0pt; line-height: 115%;\">, </span><a href=\"https://www.magazineluiza.com.br/incenso/religiao-e-espiritualidade/s/rg/cnso/\"><span style=\"font-size: 12.0pt; line-height: 115%; color: #1155cc;\">incensos</span></a><span style=\"font-size: 12.0pt; line-height: 115%;\"> e japamalas s&atilde;o itens de religi&atilde;o e espiritualidade perfeitos pro dia a dia e pros momentos de ora&ccedil;&atilde;o, viu? Isso porque al&eacute;m de serem &oacute;timos pra purificar o lar, facilitam as preces, trazem boas vibra&ccedil;&otilde;es e alguns tipos ainda ajudam os ambientes a ficarem mais decorados e cheirosos. Quer saber os detalhes? Vem que eu te conto!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Religião e Espiritualidade",
+          "id": "RG",
+          "description": "Religião e Espiritualidade",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/relogios/l/re/",
+            "breadcrumbAlias": "Relógios",
+            "description": "Relógios e Acessórios das melhores marcas você encontra aqui! Confira os melhores preços de Relógio Casio, Technos Magnum e muito mais! Vem aproveitar!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os rel&oacute;gios s&atilde;o acess&oacute;rios que, al&eacute;m de elegantes e bonitos, s&atilde;o super necess&aacute;rios. &Eacute; gra&ccedil;as a esses produtos que conseguimos ver as horas, e eles t&atilde;o cada vez mais modernos, viu? Tem os cl&aacute;ssicos rel&oacute;gios de ponteiro, mas tamb&eacute;m os digitais e smartwatches, que voc&ecirc; consegue at&eacute; ver quantos passos deu e se teve uma boa noite de sono. Tem muita op&ccedil;&atilde;o! Quer saber qual o modelo perfeito pra voc&ecirc;? Eu te explico:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Relógios",
+          "id": "RE",
+          "description": "Relógios",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/saude-e-cuidados-pessoais/l/cp/",
+            "breadcrumbAlias": "Saúde e Cuidados Pessoais",
+            "description": "As melhores ofertas de Secadores, Chapinhas, Escovas Modeladoras e muito mais, você encontra aqui no Magazine Luiza! Confira ;)",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os itens de cuidados pessoais s&atilde;o importantes na vida de qualquer pessoa, n&eacute;? Eles ajudam a prevenir o aparecimento de doen&ccedil;as, nos alertando sobre algumas mudan&ccedil;as no organismo. Tenho dicas de produtos que te ajudam nessa tarefa. Vem comigo! </span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Saúde e Cuidados Pessoais",
+          "id": "CP",
+          "description": "Saúde e Cuidados Pessoais",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/servicos/l/se/",
+            "breadcrumbAlias": "Serviços",
+            "description": "Serviços de instalação, montagem de móveis, higienização de estofados e muito mais para facilitar sua vida, você encontra aqui no Magazine Luiza! Confira!\n",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, sabia que &eacute; &oacute;timo contar com os servi&ccedil;os de especialistas pra instalar </span><a href=\"https://www.magazineluiza.com.br/moveis/l/mo/\"><span style=\"font-weight: 400;\">m&oacute;veis</span></a><span style=\"font-weight: 400;\">, </span><a href=\"https://www.magazineluiza.com.br/eletrodomesticos/l/ed/\"><span style=\"font-weight: 400;\">eletrodom&eacute;sticos</span></a><span style=\"font-weight: 400;\"> e </span><a href=\"https://www.magazineluiza.com.br/eletroportateis/l/ep/\"><span style=\"font-weight: 400;\">port&aacute;teis</span></a><span style=\"font-weight: 400;\">? Pois &eacute;! Esses profissionais t&ecirc;m t&eacute;cnicas incr&iacute;veis pra colocar cada item no lugar rapidinho, o que &eacute; bom pra conservar as pe&ccedil;as, que podem at&eacute; durar mais tempo. Gostou? Ent&atilde;o, vem comigo que eu separei algumas dicas sobre isso:</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Serviços",
+          "id": "SE",
+          "description": "Serviços",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/suplementos-alimentares/l/sa/",
+            "breadcrumbAlias": "Suplementos Alimentares",
+            "description": "Aqui você encontra suplementos pré e pós treino, whey protein, termogênicos, shakes e muito mais com os melhores preços!",
+            "seoBlock": "<p>Gente, os suplementos alimentares complementam a nossa dieta e fornecem nutrientes como vitaminas pro nosso corpo. Eles s&atilde;o importantes pra quem quer cuidar da sa&uacute;de. Aqui no Magalu voc&ecirc; encontra uma variedade de suplementos alimentares, viu? Eu reuni tudo o que voc&ecirc; precisa pra cuidar do seu bem-estar e da&nbsp; sua alimenta&ccedil;&atilde;o de acordo com seu objetivo, vem comigo!</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Suplementos Alimentares",
+          "id": "SA",
+          "description": "Suplementos Alimentares",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/tablets-ipads-e-e-reader/l/tb/",
+            "breadcrumbAlias": "Tablets, iPads e E-Readers",
+            "description": "O seu próximo tablet está aqui! iPads, Tablets e E-readers com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p>Gente, os <a href=\"https://www.magazineluiza.com.br/tablets/tablets-ipads-e-e-reader/s/tb/tbtm/\">tablets</a>, <a href=\"https://www.magazineluiza.com.br/apple-ipad/tablets-ipads-e-e-reader/s/tb/apip/\">iPads</a> e <a href=\"https://www.magazineluiza.com.br/kindle-e-reader/tablets-ipads-e-e-reader/s/tb/kind/\">e-readers</a> s&atilde;o itens de <a href=\"https://www.magazineluiza.com.br/informatica/l/in/\">inform&aacute;tica</a> incr&iacute;veis pra trabalhar, estudar e at&eacute; se divertir com bastante tecnologia, n&eacute;? Isso porque esses equipamentos t&ecirc;m fun&ccedil;&otilde;es bem modernas que agilizam a rotina na hora de ler <a href=\"https://www.magazineluiza.com.br/livros/l/li/\">livros</a>, fazer anota&ccedil;&otilde;es, ver e editar fotos e v&iacute;deos. A&iacute; sim! Quer saber os detalhes e conhecer alguns modelos? Vem comigo:</p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Tablets, iPads e E-Readers",
+          "id": "TB",
+          "description": "Tablets, iPads e E-Readers",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/telefonia-fixa/l/tf/",
+            "breadcrumbAlias": "Telefonia Fixa",
+            "description": "Telefone sem fio, com fio de várias marcas e modelos com preços incríveis você encontra aqui no Magazine Luiza! Vem aproveitar!",
+            "seoBlock": "<p class=\"normal\" style=\"text-align: justify;\"><span style=\"font-size: 12.0pt; line-height: 115%;\">Olha, muita gente acha que os aparelhos de telefonia fixa est&atilde;o ultrapassados e s&atilde;o pouco utilizados. Mas o que eles n&atilde;o sabem &eacute; que esses equipamentos ainda s&atilde;o muito vendidos e v&atilde;o muito al&eacute;m de simples telefones! Itens como r&aacute;dio comunicadores e centrais telef&ocirc;nicas fazem parte dos aparelhos de telefonia. Que tal saber um pouquinho mais do mundo da telefonia fixa e descobrir novos produtos? Vem comigo que te mostro!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Telefonia Fixa",
+          "id": "TF",
+          "description": "Telefonia Fixa",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/tv-e-video/l/et/",
+            "breadcrumbAlias": "TV e Vídeo",
+            "description": "Smart Tv, Tv LED, LCD e Plasma com as melhores ofertas, é aqui! Confira os melhores preços de TVs e Home Theater aqui no Magazine Luiza!",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, o setor de TV e v&iacute;deo tem v&aacute;rios produtos interessantes pra quem ama assistir filmes e s&eacute;ries com qualidade! D&aacute; pra curtir v&aacute;rias fun&ccedil;&otilde;es nas Smart TVs, maratonar os seus seriados favoritos com um bom Home Theater, rever os cl&aacute;ssicos do cinema no Blu-Ray e muito mais. T&aacute; em d&uacute;vida sobre quais produtos de TV e V&iacute;deo escolher pra sua casa? Eu te ajudo!</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "TV e Vídeo",
+          "id": "ET",
+          "description": "TV e Vídeo",
+          "__typename": "Category"
+        },
+        {
+          "meta": {
+            "canonical": "https://www.magazineluiza.com.br/utilidades-domesticas/l/ud/",
+            "breadcrumbAlias": "Utilidades Domésticas",
+            "description": "Encontre Jogo de Panelas, Aparelho de Jantar, Balança de Cozinha com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os itens de utilidades dom&eacute;sticas s&atilde;o objetos que fazem parte da nossa vida e ajudam muito em todas as tarefas do nosso dia. Al&eacute;m disso, esses itens servem tamb&eacute;m pra decorar a nossa casa e fazem com que a gente tenha mais tempo pra aproveitar o espa&ccedil;o da maneira que a gente quer. Eles s&atilde;o indicados pra todos que gostam de praticidade dentro de casa. Quer saber mais sobre esses objetos? Vem comigo que te dou v&aacute;rias dicas!&nbsp;</span></p>",
+            "__typename": "MetaCategory"
+          },
+          "label": "Utilidades Domésticas",
+          "id": "UD",
+          "description": "Utilidades Domésticas",
+          "__typename": "Category"
+        }
+      ],
+      "channel": {
+        "name": "mixer.magazineluiza.com.br",
+        "data": [],
+        "__typename": "ChannelInfo"
+      },
+      "category": [
+        {
+          "id": "UD",
+          "label": "Utilidades Domésticas",
+          "title": "Utilidades Domésticas: Jogo de Panelas, Faqueiros, Copos",
+          "description": "Utilidades Domésticas",
+          "meta": {
+            "description": "Encontre Jogo de Panelas, Aparelho de Jantar, Balança de Cozinha com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+            "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os itens de utilidades dom&eacute;sticas s&atilde;o objetos que fazem parte da nossa vida e ajudam muito em todas as tarefas do nosso dia. Al&eacute;m disso, esses itens servem tamb&eacute;m pra decorar a nossa casa e fazem com que a gente tenha mais tempo pra aproveitar o espa&ccedil;o da maneira que a gente quer. Eles s&atilde;o indicados pra todos que gostam de praticidade dentro de casa. Quer saber mais sobre esses objetos? Vem comigo que te dou v&aacute;rias dicas!&nbsp;</span></p>",
+            "canonical": "https://www.magazineluiza.com.br/utilidades-domesticas/l/ud/",
+            "titleAlias": "Utilidades Domésticas",
+            "__typename": "MetaCategory"
+          },
+          "__typename": "Category",
+          "subcategories": [
+            {
+              "id": "PANL",
+              "label": "Panelas",
+              "title": null,
+              "description": "Panelas",
+              "meta": null,
+              "__typename": "Category",
+              "subcategories": [
+                {
+                  "id": "ACPN",
+                  "label": "Acessórios para Panelas",
+                  "title": null,
+                  "description": "Acessórios para Panelas",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "BIST",
+                  "label": "Bistequeira",
+                  "title": null,
+                  "description": "Bistequeira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CAUD",
+                  "label": "Caçarola",
+                  "title": null,
+                  "description": "Caçarola",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CALD",
+                  "label": "Caldeirão",
+                  "title": null,
+                  "description": "Caldeirão",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CHCL",
+                  "label": "Chaleiras",
+                  "title": null,
+                  "description": "Chaleiras",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CHBF",
+                  "label": "Chapa Bifeteira",
+                  "title": null,
+                  "description": "Chapa Bifeteira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CPGR",
+                  "label": "Chapa Grill",
+                  "title": null,
+                  "description": "Chapa Grill",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CCTT",
+                  "label": "Cocotte",
+                  "title": null,
+                  "description": "Cocotte",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "COVA",
+                  "label": "Cozi Vapore",
+                  "title": null,
+                  "description": "Cozi Vapore",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CREP",
+                  "label": "Crepeira",
+                  "title": null,
+                  "description": "Crepeira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CUSC",
+                  "label": "Cuscuzeira",
+                  "title": null,
+                  "description": "Cuscuzeira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "DIRA",
+                  "label": "Disco de Arado",
+                  "title": null,
+                  "description": "Disco de Arado",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "ESPG",
+                  "label": "Espagueteira",
+                  "title": null,
+                  "description": "Espagueteira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "UDFG",
+                  "label": "Frigideira",
+                  "title": null,
+                  "description": "Frigideira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "CJPN",
+                  "label": "Jogo de Panelas",
+                  "title": "Jogo de Panelas: Antiaderente, Cerâmica e Inox",
+                  "description": "Jogo de Panelas",
+                  "meta": {
+                    "description": "Procurando por um jogo de panelas perfeito para sua cozinha? Aqui no Magalu você encontra panelas de inox, cerâmica e antiaderente em promoção. Confira!",
+                    "seoBlock": "<p>Gente, preparar refei&ccedil;&otilde;es em casa &eacute; um momento muito bom, mas n&atilde;o d&aacute; pra ficar dividindo a mesma <a href=\"https://www.magazineluiza.com.br/panelas/utilidades-domesticas/s/ud/panl/\" target=\"blank\"><strong>panela</strong></a> pra tudo, n&eacute;? Por isso, ter um jogo de panela vai fazer a diferen&ccedil;a no preparo daquele almo&ccedil;o ou jantar delicioso! D&aacute; pra usar v&aacute;rias panelas ao mesmo tempo! Gostou? Vem saber mais sobre o jogo de panela:</p>",
+                    "canonical": "/jogo-de-panelas/utilidades-domesticas/s/ud/cjpn/",
+                    "titleAlias": "Jogo de Panelas",
+                    "__typename": "MetaCategory"
+                  },
+                  "__typename": "Category",
+                  "subcategories": []
+                },
+                {
+                  "id": "LFUD",
+                  "label": "Leiteira / Fervedor",
+                  "title": null,
+                  "description": "Leiteira / Fervedor",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "MIPA",
+                  "label": "Mini Panela",
+                  "title": null,
+                  "description": "Mini Panela",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "MQQR",
+                  "label": "Moquequeira",
+                  "title": null,
+                  "description": "Moquequeira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "UDOM",
+                  "label": "Omeleteira",
+                  "title": null,
+                  "description": "Omeleteira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PAUD",
+                  "label": "Paellera",
+                  "title": null,
+                  "description": "Paellera",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PMCD",
+                  "label": "Panela de Micro-ondas",
+                  "title": null,
+                  "description": "Panela de Micro-ondas",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "UDPP",
+                  "label": "Panela de Pressão",
+                  "title": null,
+                  "description": "Panela de Pressão",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PAPU",
+                  "label": "Panela de Pudim / Banho Maria",
+                  "title": null,
+                  "description": "Panela de Pudim / Banho Maria",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PARI",
+                  "label": "Panela de Risoto",
+                  "title": null,
+                  "description": "Panela de Risoto",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "UDPG",
+                  "label": "Panela Grelha",
+                  "title": null,
+                  "description": "Panela Grelha",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PPIO",
+                  "label": "Panela Pipoqueira",
+                  "title": null,
+                  "description": "Panela Pipoqueira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PAWO",
+                  "label": "Panela Wok",
+                  "title": null,
+                  "description": "Panela Wok",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PATA",
+                  "label": "Panquequeira / Tapioqueira",
+                  "title": null,
+                  "description": "Panquequeira / Tapioqueira",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "PPRO",
+                  "label": "Papeiro",
+                  "title": null,
+                  "description": "Papeiro",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "RACL",
+                  "label": "Raclete",
+                  "title": null,
+                  "description": "Raclete",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                },
+                {
+                  "id": "TACH",
+                  "label": "Tacho",
+                  "title": null,
+                  "description": "Tacho",
+                  "meta": null,
+                  "__typename": "Category",
+                  "subcategories": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "product": {
+        "id": "hb69h2bd3e",
+        "variationId": "hb69h2bd3e",
+        "title": "Jogo Panelas Indução Antiaderente Revestimento Mármore Cerâmico 16 peças Marrom",
+        "description": "<p>O revestimento antiaderente em mármore é um novo revestimento baseado na cor e textura do mármore real, com vantagens que incluem alta resistência ao desgaste e boa impermeabilidade. O revestimento de mármore antiaderente de alta performance facilita a cozedura e a limpeza, além de não agredir o meio ambiente.</p> <p>As panelas, caçarolas e frigideiras da MGC são adequadas para uso em fogões a indução, gás, elétricos e cerâmicos. Suportam temperaturas de até 400 graus. Seu fundo triplo de indução conduz o calor de forma rápida e uniforme retendo o calor por mais tempo.</p> <p>Tem corpo em alumínio fundido e fundo triplo que garante uma distribuição de calor rápida e uniforme, poupando tempo e energia.</p> <p>Fácil de limpar, resistente a riscos, 100% livre de PFOA, saudável e linda, é produto que não pode faltar na sua cozinha.</p> <p><strong>Descrição dos itens: </strong></p> <p>Cor: marrom</p> <p>No conjunto de panelas cooklover 16 peças, contém:</p> <p>1- Caçarola 9,5l - 28cm x 15 cm com de tampa de vidro com contato indutivo;</p> <p>1- Caçarola 8l - 24cm x 14 com de tampa de vidro com contato indutivo;</p> <p>1- Panela 1,2l - 16cm x 10 com tampa de vidro com contato indutivo;</p> <p>1- Frigideira 28cm x 5cm sem tampa com contato indutivo (a tampa da caçarola de 28cm pode ser compartilhada com a frigideira 28cm);</p> <p>Conjunto com 7 utensílios para cozinha, sendo:</p> <p>1- Colher;</p> <p>1- Colher perfurada;</p> <p>1- Concha;</p> <p>1- Espátula;</p> <p>1- Espátula fina;</p> <p>1- Pegador de macarrão;</p> <p>1- Porta utensílios rotativo;</p> <p>2- Protetores antitérmicos para as mãos.</p> <p>Dimensões da caixa master cxlxa: 48 x 38 x 32cm</p> <p>Peso: 9,2 kg</p> <p><strong>Observação: tonalidade de cores podem variar dependendo do monitor.</strong></p> <p><strong>INFORMAÇÕES ADICIONAIS IMPORTANTES: </strong></p> <p>Primeiro uso e manutenção (CURA): Antes do primeiro uso, desmonte os puxadores das tampas e remonte-os na posição correta. Retire a etiqueta lavar a(s) peça(s) com água e secar.</p> <p>Colocar a(s) peça(s) no fogo, e passar com uma folha de papel toalha, por todo o interior da peça 02 colheres de óleo de cozinha (soja, canola, girassol ou azeite de oliva), pelo tempo de 02 (dois minutos).</p> <p>Deixar esfriar. Limpe o excesso com papel toalha e pronto. Você já pode utilizar o seu produto.</p> <p>Atenção: recomenda-se repetir esse processo a cada 03 (três) meses.</p> <p>Chamas adequadas: o aquecimento uniforme do fundo pode acelerar o cozimento. Este aço é adequado para fogões a gás, fogões de indução e fogões elétricos de cerâmica.</p> <p> Modo correto de limpeza: lavar apenas com água. Utilizar detergente em mínima quantidade somente em casos de excesso de resíduos e enxaguar bem.</p> <p>Em caso de manchas difíceis, use água quente e esponja macia com o mínimo de detergente. Não use pano abrasivo vigoroso (tipo perfex). Atenção: nunca lave o seu produto ainda quente com água fria.</p> <p>Garantia de qualidade: este produto se aplica à garantia de defeitos de fabricação por 90 dias.</p> <p>A garantia não cobre danos causados por uso inadequado, uso comercial, uso anormal, desgaste anormal, manuseio acidental ou inadequado.</p>",
+        "image": "https://a-static.mlcdn.com.br/{w}x{h}/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/4c8c8cf9ba2b14fbe09f95f164205ece.jpeg",
+        "available": true,
+        "position": 0,
+        "isBuyBox": false,
+        "url": "jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/p/hb69h2bd3e/ud/cjpn/",
+        "path": "jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/p/hb69h2bd3e/ud/cjpn/",
+        "reference": "MGC",
+        "attributes": [],
+        "seller": {
+          "id": "parakasa",
+          "sku": "553081859",
+          "description": "Para Kasa",
+          "category": "3p",
+          "deliveryId": "magazineluiza",
+          "deliveryDescription": "Magalu",
+          "details": {
+            "id": "parakasa",
+            "legalName": "Para Kasa Utilidades Domesticas Ltda",
+            "documentNumber": "07394367000186",
+            "address": {
+              "address": "R CASTRO ALVES",
+              "number": "435",
+              "complement": "",
+              "district": "JARDIM ASTORGA",
+              "city": "ASTORGA",
+              "state": "PR",
+              "country": "Brasil",
+              "zipcode": "86730000",
+              "__typename": "Address"
+            },
+            "__typename": "Details"
+          },
+          "__typename": "Seller"
+        },
+        "brand": {
+          "label": "MGC",
+          "slug": "mgc",
+          "__typename": "Brand"
+        },
+        "price": {
+          "paymentMethodDescription": "no PIX",
+          "price": "1099.90",
+          "fullPrice": "1039.90",
+          "bestPrice": "935.91",
+          "discount": "10.00",
+          "__typename": "Price"
+        },
+        "installment": {
+          "paymentMethodDescription": "sem juros",
+          "quantity": 10,
+          "amount": "103.99",
+          "totalAmount": "1039.90",
+          "__typename": "Installment"
+        },
+        "rating": {
+          "count": 0,
+          "score": 0,
+          "__typename": "Rating"
+        },
+        "badges": [],
+        "category": {
+          "id": "UD",
+          "name": "Utilidades Domésticas",
+          "__typename": "ProductCategory"
+        },
+        "subcategory": {
+          "id": "CJPN",
+          "name": "Jogo de Panelas",
+          "__typename": "ProductCategory"
+        },
+        "loyalty": {
+          "value": null,
+          "type": null,
+          "attributes": null,
+          "label": null,
+          "description": null,
+          "__typename": "Loyalty"
+        },
+        "__typename": "Product",
+        "terms": [
+          "Jogo Panelas Indução Antiaderente Revestimento Mármore Cerâmico 16 peças Marrom",
+          "Jogo Panelas",
+          "Jogo Indução Antiaderente Revestimento Mármore Cerâmico 16 peças Marrom",
+          "Jogo Indução",
+          "Jogo Antiaderente Revestimento Mármore Cerâmico 16 peças Marrom",
+          "Jogo Antiaderente",
+          "Jogo Revestimento Mármore Cerâmico 16 peças Marrom",
+          "Jogo Revestimento",
+          "Jogo Mármore Cerâmico 16 peças Marrom",
+          "Jogo Mármore",
+          "Jogo Cerâmico 16 peças Marrom",
+          "Jogo Cerâmico",
+          "Jogo 16 peças Marrom",
+          "Jogo 16",
+          "Jogo peças Marrom",
+          "Jogo peças",
+          "Jogo Marrom"
+        ],
+        "factsheet": [
+          {
+            "displayName": "Ficha Técnica",
+            "slug": "ficha-tecnica",
+            "elements": [
+              {
+                "keyName": "Informações complementares",
+                "elements": [],
+                "__typename": "Element"
+              }
+            ],
+            "__typename": "FactSheet"
+          }
+        ],
+        "isOnWishlist": null,
+        "variations": [],
+        "media": {
+          "audios": [],
+          "images": [
+            "https://a-static.mlcdn.com.br/{w}x{h}/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/4c8c8cf9ba2b14fbe09f95f164205ece.jpeg",
+            "../../../../../../a-static.mlcdn.com.br/%7bw%7dx%7bh%7d/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/3818c34db61785c0705fc6d1aea9ae13.html",
+            "../../../../../../a-static.mlcdn.com.br/%7bw%7dx%7bh%7d/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/07a7f924538e9e1741625dbd4bba139a.html",
+            "../../../../../../a-static.mlcdn.com.br/%7bw%7dx%7bh%7d/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/7e76842d9fdfef0bb542bdfaa18dbc06.html",
+            "../../../../../../a-static.mlcdn.com.br/%7bw%7dx%7bh%7d/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/a14cb5be55fd73d8e5a883b09dfdcc9e.html",
+            "../../../../../../a-static.mlcdn.com.br/%7bw%7dx%7bh%7d/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/539ed6b7c749cc7f06c7017cd534c2c3.html",
+            "https://a-static.mlcdn.com.br/{w}x{h}/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/parakasa/553081859/39382cd6a55f7dad2db31c534830e3a8.jpeg"
+          ],
+          "podcasts": [],
+          "videos": [],
+          "__typename": "Media"
+        },
+        "financialServices": [],
+        "offers": [
+          {
+            "sku": "553081859",
+            "price": {
+              "paymentMethodDescription": "no PIX",
+              "bestPrice": "935.91",
+              "fullPrice": null,
+              "price": "1099.90",
+              "currency": "BRL",
+              "discount": "10.00",
+              "__typename": "Price"
+            },
+            "seller": {
+              "id": "parakasa",
+              "sku": null,
+              "description": "Para Kasa",
+              "category": "3p",
+              "deliveryId": "magazineluiza",
+              "deliveryDescription": "Magalu",
+              "details": {
+                "id": "parakasa",
+                "legalName": "Para Kasa Utilidades Domesticas Ltda",
+                "documentNumber": "07394367000186",
+                "address": {
+                  "address": "R CASTRO ALVES",
+                  "number": "435",
+                  "complement": "",
+                  "district": "JARDIM ASTORGA",
+                  "city": "ASTORGA",
+                  "state": "PR",
+                  "country": "Brasil",
+                  "zipcode": "86730000",
+                  "__typename": "Address"
+                },
+                "__typename": "Details"
+              },
+              "__typename": "Seller"
+            },
+            "__typename": "Offer"
+          }
+        ],
+        "paymentMethods": [
+          {
+            "id": "luiza_ouro",
+            "installmentPlans": [
+              {
+                "installment": 1,
+                "installmentAmount": "935.91",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "935.91",
+                "discount": "10.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 2,
+                "installmentAmount": "519.95",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 3,
+                "installmentAmount": "346.63",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 4,
+                "installmentAmount": "259.98",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 5,
+                "installmentAmount": "207.98",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 6,
+                "installmentAmount": "173.32",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 7,
+                "installmentAmount": "148.56",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 8,
+                "installmentAmount": "129.99",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 9,
+                "installmentAmount": "115.54",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 10,
+                "installmentAmount": "103.99",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 11,
+                "installmentAmount": "106.19",
+                "interest": "1.99",
+                "interestAmount": "128.24",
+                "totalAmount": "1168.14",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 12,
+                "installmentAmount": "98.27",
+                "interest": "1.99",
+                "interestAmount": "139.37",
+                "totalAmount": "1179.27",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              }
+            ],
+            "__typename": "PaymentMethods"
+          },
+          {
+            "id": "account_balance",
+            "installmentPlans": [
+              {
+                "installment": 1,
+                "installmentAmount": "935.91",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "935.91",
+                "discount": "10.00",
+                "__typename": "InstallmentPlan"
+              }
+            ],
+            "__typename": "PaymentMethods"
+          },
+          {
+            "id": "boleto",
+            "installmentPlans": [
+              {
+                "installment": 1,
+                "installmentAmount": "935.91",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "935.91",
+                "discount": "10.00",
+                "__typename": "InstallmentPlan"
+              }
+            ],
+            "__typename": "PaymentMethods"
+          },
+          {
+            "id": "pix",
+            "installmentPlans": [
+              {
+                "installment": 1,
+                "installmentAmount": "935.91",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "935.91",
+                "discount": "10.00",
+                "__typename": "InstallmentPlan"
+              }
+            ],
+            "__typename": "PaymentMethods"
+          },
+          {
+            "id": "visa",
+            "installmentPlans": [
+              {
+                "installment": 1,
+                "installmentAmount": "935.91",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "935.91",
+                "discount": "10.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 2,
+                "installmentAmount": "519.95",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 3,
+                "installmentAmount": "346.63",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 4,
+                "installmentAmount": "259.98",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 5,
+                "installmentAmount": "207.98",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 6,
+                "installmentAmount": "173.32",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 7,
+                "installmentAmount": "148.56",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 8,
+                "installmentAmount": "129.99",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 9,
+                "installmentAmount": "115.54",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 10,
+                "installmentAmount": "103.99",
+                "interest": "0.00",
+                "interestAmount": "0.00",
+                "totalAmount": "1039.90",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 11,
+                "installmentAmount": "106.19",
+                "interest": "1.99",
+                "interestAmount": "128.24",
+                "totalAmount": "1168.14",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              },
+              {
+                "installment": 12,
+                "installmentAmount": "98.27",
+                "interest": "1.99",
+                "interestAmount": "139.37",
+                "totalAmount": "1179.27",
+                "discount": "0.00",
+                "__typename": "InstallmentPlan"
+              }
+            ],
+            "__typename": "PaymentMethods"
+          }
+        ],
+        "type": "product",
+        "bundles": null,
+        "dimensions": {
+          "height": 0.32,
+          "length": 0.48,
+          "weight": 9.3,
+          "width": 0.38,
+          "__typename": "Dimension"
+        }
+      },
+      "review": {
+        "stats": null,
+        "reviews": [],
+        "sorts": [
+          {
+            "type": "totalpositivefeedbackcount",
+            "orientation": "desc",
+            "label": "Mais relevantes",
+            "__typename": "Sort"
+          },
+          {
+            "type": "helpfulness",
+            "orientation": "desc",
+            "label": "Mais úteis",
+            "__typename": "Sort"
+          },
+          {
+            "type": "rating",
+            "orientation": "desc",
+            "label": "De mais positivas para negativas",
+            "__typename": "Sort"
+          },
+          {
+            "type": "rating",
+            "orientation": "asc",
+            "label": "De mais negativas para positivas",
+            "__typename": "Sort"
+          },
+          {
+            "type": "submissiontime",
+            "orientation": "desc",
+            "label": "Mais recentes",
+            "__typename": "Sort"
+          }
+        ],
+        "pagination": {
+          "page": 1,
+          "pages": 0,
+          "size": 20,
+          "start": 1,
+          "__typename": "Pagination"
+        },
+        "__typename": "ReviewResponse"
+      },
+      "questions": {
+        "items": [],
+        "sellerInfo": {
+          "enabled": true,
+          "__typename": "SellerInfoResponse"
+        },
+        "totalQuestions": 0,
+        "pagination": {
+          "page": null,
+          "totalPages": null,
+          "__typename": "QuestionPagination"
+        },
+        "__typename": "QuestionsResponse"
+      },
+      "seoPdpContent": {
+        "ids": null,
+        "faq": null,
+        "meta": {
+          "title": null,
+          "description": null,
+          "canonical": null,
+          "__typename": "ComponentPresentationMeta"
+        },
+        "__typename": "PdpContents"
+      },
+      "blogPostsByEcomm": {
+        "posts": [
+          {
+            "id": "11784",
+            "title": "Como escolher o melhor jogo de panelas",
+            "subtitle": "Eu te conto como achar o kit perfeito e mostro algumas opções!\n",
+            "image": {
+              "urls": {
+                "default": "https://wx.mlcdn.com.br/ponzi/production/uploads/01_c324b67d37.jpg",
+                "__typename": "ImageUrls"
+              },
+              "__typename": "PostImage"
+            },
+            "slug": "ud/panl/como-escolher-o-melhor-jogo-de-panelas",
+            "__typename": "PostItem"
+          },
+          {
+            "id": "1956",
+            "title": "As vantagens das panelas caldeirões",
+            "subtitle": "Saiba tudo sobre esse item e escolha o ideal pra você",
+            "image": {
+              "urls": {
+                "default": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/86955_00.jpg",
+                "__typename": "ImageUrls"
+              },
+              "__typename": "PostImage"
+            },
+            "slug": "ud/panl/as-vantagens-das-panelas-caldeiroes",
+            "__typename": "PostItem"
+          },
+          {
+            "id": "1973",
+            "title": "Cuide bem  das panelas",
+            "subtitle": "Conheça o jeito ideal de deixar esse utensílio em dia! ",
+            "image": {
+              "urls": {
+                "default": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/86850_00.jpg",
+                "__typename": "ImageUrls"
+              },
+              "__typename": "PostImage"
+            },
+            "slug": "ud/panl/cuide-bem-das-panelas",
+            "__typename": "PostItem"
+          }
+        ],
+        "__typename": "EcommLuContentPostList"
+      },
+      "seo": {
+        "category": [
+          {
+            "id": "UD",
+            "label": "Utilidades Domésticas",
+            "title": "Utilidades Domésticas: Jogo de Panelas, Faqueiros, Copos",
+            "description": "Utilidades Domésticas",
+            "meta": {
+              "description": "Encontre Jogo de Panelas, Aparelho de Jantar, Balança de Cozinha com ótimos preços e entrega rápida. Tudo isso #TemNoMagalu",
+              "seoBlock": "<p><span style=\"font-weight: 400;\">Gente, os itens de utilidades dom&eacute;sticas s&atilde;o objetos que fazem parte da nossa vida e ajudam muito em todas as tarefas do nosso dia. Al&eacute;m disso, esses itens servem tamb&eacute;m pra decorar a nossa casa e fazem com que a gente tenha mais tempo pra aproveitar o espa&ccedil;o da maneira que a gente quer. Eles s&atilde;o indicados pra todos que gostam de praticidade dentro de casa. Quer saber mais sobre esses objetos? Vem comigo que te dou v&aacute;rias dicas!&nbsp;</span></p>",
+              "canonical": "https://www.magazineluiza.com.br/utilidades-domesticas/l/ud/",
+              "titleAlias": "Utilidades Domésticas",
+              "__typename": "MetaCategory"
+            },
+            "__typename": "Category",
+            "subcategories": [
+              {
+                "id": "CJPN",
+                "label": "Jogo de Panelas",
+                "title": "Jogo de Panelas: Antiaderente, Cerâmica e Inox",
+                "description": "Jogo de Panelas",
+                "meta": {
+                  "description": "Procurando por um jogo de panelas perfeito para sua cozinha? Aqui no Magalu você encontra panelas de inox, cerâmica e antiaderente em promoção. Confira!",
+                  "seoBlock": "<p>Gente, preparar refei&ccedil;&otilde;es em casa &eacute; um momento muito bom, mas n&atilde;o d&aacute; pra ficar dividindo a mesma <a href=\"https://www.magazineluiza.com.br/panelas/utilidades-domesticas/s/ud/panl/\" target=\"blank\"><strong>panela</strong></a> pra tudo, n&eacute;? Por isso, ter um jogo de panela vai fazer a diferen&ccedil;a no preparo daquele almo&ccedil;o ou jantar delicioso! D&aacute; pra usar v&aacute;rias panelas ao mesmo tempo! Gostou? Vem saber mais sobre o jogo de panela:</p>",
+                  "canonical": "/jogo-de-panelas/utilidades-domesticas/s/ud/cjpn/",
+                  "titleAlias": "Jogo de Panelas",
+                  "__typename": "MetaCategory"
+                },
+                "__typename": "Category",
+                "subcategories": []
+              }
+            ]
+          }
+        ],
+        "__typename": "Seo"
+      }
+    },
+    "structure": {
+      "layout": {
+        "bg": "background.lighter"
+      },
+      "canonicalUrl": "{{product.path}}",
+      "foundCheck": "product.id",
+      "foundError": "ProductErrorFromCatalog",
+      "metaTags": [
+        {
+          "type": "title",
+          "children": "{{seoPdpContent.meta.title}}||{{utils.getFullTitle :do product}} - {{product.subcategory.name}} - Magazine Luiza"
+        },
+        {
+          "type": "meta",
+          "name": "description",
+          "content": "{{seoPdpContent.meta.description}}||{{product.title}} com as melhores condições você encontra no site do Magalu. Confira!"
+        },
+        {
+          "type": "meta",
+          "name": "keywords",
+          "content": "{{product.title}}, {{product.category.name}} em oferta, {{product.category.name}} baratos, promoção de {{product.category.name}}, {{product.subcategory.name}} em oferta, {{product.subcategory.name}} baratos, promoção de {{product.subcategory.name}}"
+        },
+        {
+          "type": "link",
+          "rel": "canonical",
+          "href": "{{seoPdpContent.meta.canonical}}||{{meta.canonical}}/{{product.path}}"
+        },
+        {
+          "type": "meta",
+          "property": "og:title",
+          "content": "{{utils.getFullTitle :do product}} - {{product.subcategory.name}} - Magazine Luiza"
+        },
+        {
+          "type": "meta",
+          "property": "og:description",
+          "content": "{{product.title}} com as melhores condições você encontra no site do Magalu. Confira!"
+        },
+        {
+          "type": "meta",
+          "property": "og:image",
+          "content": "{{meta.ogImage}}"
+        },
+        {
+          "type": "meta",
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "type": "meta",
+          "property": "og:site_name",
+          "content": "Magazine Luiza"
+        },
+        {
+          "type": "meta",
+          "property": "og:url",
+          "content": "{{config.domain}}/{{product.path}}"
+        },
+        {
+          "type": "meta",
+          "name": "facebook-domain-verification",
+          "content": "18hv595ecluvr6vnm3tcexzt86qkdr"
+        }
+      ],
+      "components": [
+        {
+          "name": "BackToTop",
+          "id": "backToTopButton"
+        },
+        {
+          "name": "GoogleTagManagerNoscript",
+          "id": "googletagmanagernoscript",
+          "static": {
+            "id": "GTM-9NCJ"
+          }
+        },
+        {
+          "name": "CloseableAdUnit",
+          "id": "banner-hyper-top",
+          "children": [
+            {
+              "name": "TaglessAdUnit",
+              "id": "hyper-top-ad",
+              "static": {
+                "target": [
+                  [
+                    "pagina",
+                    "{{structure.name}}||"
+                  ],
+                  [
+                    "categoria",
+                    "{{route.categoryId}}||"
+                  ],
+                  [
+                    "subcategoria",
+                    "{{route.subCategoryId}}||"
+                  ],
+                  [
+                    "Termo_Busca",
+                    "{{route.term}}||"
+                  ],
+                  [
+                    "SKU",
+                    "{{route.productId}}||"
+                  ],
+                  [
+                    "id_selecao",
+                    "{{route.selectionId}}||"
+                  ],
+                  [
+                    "marca",
+                    "{{route.brandId}}||"
+                  ],
+                  [
+                    "lojista",
+                    "{{route.sellerId}}||"
+                  ]
+                ],
+                "path": "/21908074511/mobile/discovery_padrao/hypertop",
+                "size": [
+                  329,
+                  64
+                ]
+              }
+            }
+          ],
+          "static": {
+            "iconName": "Close",
+            "bannerId": "hypertop"
+          }
+        },
+        {
+          "name": "Header",
+          "id": "header",
+          "static": {
+            "searchUrl": "https://m.magazineluiza.com.br/busca/",
+            "headerData": {
+              "logo": {
+                "url": "https://m.magazineluiza.com.br/"
+              },
+              "shoppingBag": {
+                "url": "https://sacolamobile.magazineluiza.com.br/#/"
+              },
+              "search": {
+                "placeholder": "Busca no Magalu"
+              }
+            },
+            "menuData": {
+              "data": {
+                "header": {
+                  "id": "Profile",
+                  "label": "Entre ou cadastre-se",
+                  "url": "https://sacolamobile.magazineluiza.com.br/#/cliente/login/",
+                  "loggedLabel": "Olá, {{cookies.accountData.name}}",
+                  "loggedUrl": "https://m.magazineluiza.com.br/conta/",
+                  "helpers": [
+                    {
+                      "id": "Store",
+                      "label": "Nossas lojas",
+                      "url": "https://lojas.magazineluiza.com.br"
+                    },
+                    {
+                      "id": "Package",
+                      "label": "Meus pedidos",
+                      "url": "https://meuespaco.magazineluiza.com.br/pedidos/"
+                    }
+                  ]
+                },
+                "account": {
+                  "name": "",
+                  "signOutUrl": "https://sacolamobile.magazineluiza.com.br/#/sair/?next=https%3A%2F%2Fm.magazineluiza.com.br%2F&origin=magazineluiza"
+                },
+                "groupedLinks": [
+                  [
+                    {
+                      "label": "Baixe agora o SuperApp",
+                      "url": "https://especiais.magazineluiza.com.br/superapp-magalu/"
+                    },
+                    {
+                      "label": "Saldão",
+                      "url": "https://m.magazineluiza.com.br/saldao/",
+                      "startIcon": ""
+                    },
+                    {
+                      "label": "Smartphoniza",
+                      "url": "https://especiais.magazineluiza.com.br/smartphoniza/",
+                      "startIcon": ""
+                    },
+                    {
+                      "label": "Blog da Lu",
+                      "url": "https://m.magazineluiza.com.br/blog-da-lu/",
+                      "startIcon": ""
+                    },
+                    {
+                      "label": "Veja as Ofertas do Dia",
+                      "url": "https://m.magazineluiza.com.br/selecao/ofertasdodia/",
+                      "startIcon": ""
+                    }
+                  ],
+                  [
+                    {
+                      "label": "Meus favoritos",
+                      "url": "https://m.magazineluiza.com.br/favoritos/",
+                      "startIcon": "Heart"
+                    }
+                  ]
+                ],
+                "categoryList": {
+                  "orderBy": [],
+                  "show": 6,
+                  "collapseText": "Veja todos os departamentos",
+                  "list": []
+                },
+                "services": {
+                  "title": "Serviços",
+                  "list": [
+                    {
+                      "label": "Cartão Luiza",
+                      "id": "Card",
+                      "url": "https://especiais.magazineluiza.com.br/cartao-luiza/"
+                    },
+                    {
+                      "label": "Marketplace",
+                      "id": "Marketplace",
+                      "url": "https://especiais.magazineluiza.com.br/marketplace/"
+                    },
+                    {
+                      "label": "Parceiro Magalu",
+                      "id": "Partner",
+                      "url": "https://www.parceiromagalu.com.br/"
+                    },
+                    {
+                      "label": "Lista de Casamento",
+                      "id": "Marriage",
+                      "url": "https://querodecasamento.com.br/lista-de-casamento/busca/?utm_source=magazineluiza.com.br&utm_medium=referral&utm_campaign=convidados"
+                    },
+                    {
+                      "label": "Chá de Bebê",
+                      "id": "BabyShower",
+                      "url": "https://listasmagalu.com/chadebebe"
+                    },
+                    {
+                      "label": "Cliente Ouro",
+                      "id": "GoldClient",
+                      "url": "https://especiais.magazineluiza.com.br/cliente-ouro/"
+                    },
+                    {
+                      "label": "Luizaseg",
+                      "id": "LuizaSeg",
+                      "url": "https://www.luizaseg.com.br/"
+                    },
+                    {
+                      "label": "Plano Controle",
+                      "id": "ControlPlan",
+                      "url": "https://especiais.magazineluiza.com.br/plano-controle/"
+                    },
+                    {
+                      "label": "Consórcio Magalu",
+                      "id": "Consortium",
+                      "url": "https://m.magazineluiza.com.br/lojista/consorcioluiza/"
+                    },
+                    {
+                      "label": "Seguro Casa Protegida",
+                      "id": "HomeSecurity",
+                      "url": "https://www.residencialmagazineluiza.com.br/ "
+                    },
+                    {
+                      "label": "Casa inteligente",
+                      "id": "HomeIntelligent",
+                      "url": "https://especiais.magazineluiza.com.br/casa-inteligente/"
+                    },
+                    {
+                      "label": "Magalu Empresas",
+                      "id": "MagaluEmp",
+                      "url": "https://www.magaluempresas.com.br/"
+                    }
+                  ]
+                },
+                "externalLinks": {
+                  "title": "Nossas Marcas",
+                  "list": [
+                    {
+                      "id": "NetshoesCircle",
+                      "label": "Netshoes",
+                      "url": "https://especiais.magazineluiza.com.br/netshoes/"
+                    },
+                    {
+                      "id": "Zattini",
+                      "label": "Zattini",
+                      "url": "https://especiais.magazineluiza.com.br/zattini/"
+                    },
+                    {
+                      "id": "Epoca",
+                      "label": "Época Cosméticos",
+                      "url": "https://m.magazineluiza.com.br/lojista/epocacosmeticos-integra/"
+                    }
+                  ]
+                },
+                "moreInformation": [
+                  {
+                    "label": "Central de Atendimento",
+                    "id": "Sac",
+                    "url": "https://atendimento.magazineluiza.com.br/hc/pt-br/"
+                  },
+                  {
+                    "label": "Regulamentos",
+                    "id": "Rules",
+                    "url": "https://especiais.magazineluiza.com.br/regulamentos/"
+                  },
+                  {
+                    "label": "Política de Privacidade",
+                    "id": "PrivacyPolitic",
+                    "url": "https://especiais.magazineluiza.com.br/politica-de-privacidade/"
+                  }
+                ],
+                "actionButtons": [
+                  {
+                    "label": "0800 773 3838",
+                    "id": "Phone",
+                    "url": "tel:08007733838"
+                  },
+                  {
+                    "label": "Compre pelo chat",
+                    "url": "https://atendimento.magazineluiza.com.br/hc/pt-br?open=chat_televendas"
+                  }
+                ],
+                "helperText": [
+                  "Compre pelo televendas",
+                  "Seg. à Dom. (exceto feriados)",
+                  "das 8h às 20h"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "name": "ZipCodeBar",
+          "id": "ZipCodeBar",
+          "static": {
+            "zipCodeBar": {
+              "zipCodeBarText": {
+                "text": "Ofertas para",
+                "defaultText": "Ver ofertas para minha região"
+              }
+            },
+            "popper": {
+              "enabled": true,
+              "info": {
+                "title": "Boas vindas! Qual a sua localização?",
+                "content": "Compartilhe sua localização para receber os melhores valores de frete e muito mais.",
+                "buttonLabel": "Preencher"
+              },
+              "success": {
+                "title": "Obrigada! Recebemos sua localização.",
+                "content": "Para alterar basta clicar novamente"
+              }
+            }
+          }
+        },
+        {
+          "name": "ZipCodeInput",
+          "id": "zipCodeInput",
+          "static": {
+            "image": "https://wx.mlcdn.com.br/site/shared/geoloc/geo-map.svg",
+            "titleText": "Qual a sua localização?"
+          }
+        },
+        {
+          "name": "MessageBox",
+          "id": "messageBox",
+          "hide": "{{cookies.acceptPolicy}}===true",
+          "static": {
+            "hrefLink": "https://especiais.magazineluiza.com.br/politica-de-privacidade",
+            "text": "Cookies: a gente guarda estatísticas de visitas para melhorar sua experiência de navegação, saiba mais em nossa ",
+            "textButton": "ENTENDI E FECHAR",
+            "textLink": "política de privacidade."
+          }
+        },
+        {
+          "name": "JsonLd",
+          "id": "json-ld",
+          "static": {
+            "type": "Product"
+          }
+        },
+        {
+          "name": "JsonLd",
+          "show": "{{questions.sellerInfo.enabled}}",
+          "id": "json-ld-faq",
+          "static": {
+            "type": "FAQPage"
+          }
+        },
+        {
+          "name": "Breadcrumb",
+          "id": "breadcrumb"
+        },
+        {
+          "name": "MediaGallery",
+          "id": "media-gallery",
+          "static": {
+            "imgWidth": 450,
+            "imgHeight": 450,
+            "preload": true
+          }
+        },
+        {
+          "name": "Heading",
+          "id": "title",
+          "layout": {
+            "padding": "8px"
+          },
+          "static": {
+            "publish": "product:title:click",
+            "title": "{{product.title}}||",
+            "fontSize": "24px",
+            "lineHeight": 1.25,
+            "fontWeight": 500
+          }
+        },
+        {
+          "name": "Row",
+          "id": "rating-social-share",
+          "static": {
+            "textAlign": "center",
+            "mb": "10px",
+            "alignItems": "center"
+          },
+          "layout": {
+            "padding": "0 8px"
+          },
+          "children": [
+            {
+              "name": "Rating",
+              "id": "product-rating",
+              "static": {
+                "eventClick": "product:rating:click"
+              }
+            },
+            {
+              "name": "Hotjar",
+              "id": "hotjar",
+              "disable": {
+                "@if": {
+                  "property": "{{route.sellerId}}",
+                  "op": "neq",
+                  "value": [
+                    "ergonoseg",
+                    "mabellevariedades",
+                    "mundozoe",
+                    "juju",
+                    "bymobille",
+                    "relocosmeticos",
+                    "sumantrasustainablepacking",
+                    "xrxstore",
+                    "tyrushop",
+                    "dreamfull",
+                    "casanuvem",
+                    "1-casaabertabrasil",
+                    "tramaseretalhos2",
+                    "waytechbr",
+                    "e-fcsstore",
+                    "fitbeauty",
+                    "niponlivebrasil2",
+                    "bellvolpebrasile",
+                    "cozzilar",
+                    "grupoantau",
+                    "kskcases",
+                    "mixcomerciodecosmeticosltda",
+                    "ateliecenter",
+                    "fonsecacalcados",
+                    "pereirashoponline",
+                    "sofabricaestofados",
+                    "irispratasemijoias",
+                    "compramais",
+                    "fillco",
+                    "lojavittoria",
+                    "123realiza",
+                    "souzacomercialeletrica",
+                    "fuentes-imports",
+                    "sportretro",
+                    "crossgearoficial",
+                    "skyfy",
+                    "temdetudoonline",
+                    "luvcia",
+                    "opontoshop",
+                    "megaxt",
+                    "portinholateniseesportes",
+                    "envoy",
+                    "audite",
+                    "xconnect",
+                    "lamobilia",
+                    "enovinhosnacionaiseimportados",
+                    "imgimaginarium",
+                    "hering",
+                    "jnvariedades",
+                    "moveiszonadamata",
+                    "diskcompra",
+                    "sodieselpecas",
+                    "globale-shopltda",
+                    "cirurgicasantabarbara",
+                    "dzenklubrificantes",
+                    "versaillesdecoracaoeutilidades",
+                    "autoimportados-pecasautomotivas",
+                    "autoflex",
+                    "jlimportsdistribuidora",
+                    "bonatoacessorios",
+                    "useebrasil",
+                    "paraisodasbicicletas",
+                    "queroepreciso",
+                    "lojalutex",
+                    "hzshop",
+                    "fhpstore",
+                    "welcopet"
+                  ],
+                  "output": true,
+                  "required": false
+                }
+              }
+            },
+            {
+              "name": "SocialShare",
+              "id": "social-share",
+              "static": {
+                "linksParameter": "?partner_id=64852&utm_source=pdp_mobile&utm_medium=share",
+                "hiddenItems": {
+                  "@if": [
+                    {
+                      "property": "{{product.category.id}}",
+                      "op": "contains",
+                      "value": [
+                        "BS"
+                      ],
+                      "output": "facebook",
+                      "required": false
+                    }
+                  ]
+                },
+                "items": [
+                  {
+                    "icon": "Facebook",
+                    "title": "facebook",
+                    "url": "urlFacebook"
+                  },
+                  {
+                    "icon": "MailOutline",
+                    "title": "e-mail",
+                    "url": "urlMail"
+                  },
+                  {
+                    "icon": "Twitter",
+                    "title": "twitter",
+                    "url": "urlTwitter"
+                  },
+                  {
+                    "icon": "WhatsApp",
+                    "title": "whatsapp",
+                    "url": "urlWhatsApp"
+                  }
+                ]
+              },
+              "layout": {
+                "margin-left": "10px"
+              }
+            },
+            {
+              "name": "WishlistButton",
+              "id": "wishlist-button",
+              "layout": {
+                "display": "flex",
+                "justify-content": "flex-end",
+                "flex-grow": "2"
+              },
+              "static": {
+                "imgWidth": "28px",
+                "imgHeight": "28px"
+              }
+            }
+          ]
+        },
+        {
+          "name": "AttributeList",
+          "id": "attribute-list",
+          "layout": {
+            "padding": "0 8px 8px"
+          },
+          "static": {
+            "mandatorySelectionTypes": [
+              "size",
+              "voltage"
+            ],
+            "colorMinLength": 8
+          }
+        },
+        {
+          "name": "ProductPrice",
+          "id": "product-price",
+          "layout": {
+            "padding": "0 8px",
+            "width": "100%",
+            "display": "flex",
+            "justify-content": "space-between"
+          }
+        },
+        {
+          "name": "SellerDelivery",
+          "id": "seller-delivery",
+          "static": {
+            "href": "/lojista/",
+            "spa": true
+          },
+          "layout": {
+            "padding": "8px 8px 0"
+          }
+        },
+        {
+          "name": "DeliveryGuarantee",
+          "id": "delivery-guarantee",
+          "show": "{{product.seller.id}}!==magazineluiza",
+          "static": {
+            "isMagaluCompany": {
+              "@if": {
+                "property": "{{product.seller.details.id}}",
+                "op": "contains",
+                "value": [
+                  "netshoes",
+                  "kabum",
+                  "zattini",
+                  "epocacosmeticos-integra"
+                ],
+                "output": true,
+                "required": false
+              }
+            },
+            "isDefaultDelivery": {
+              "@if": {
+                "property": "{{product.seller.deliveryId}}",
+                "op": "eq",
+                "value": "magazineluiza",
+                "output": true,
+                "required": false
+              }
+            }
+          },
+          "layout": {
+            "padding": "0 8px 8px"
+          }
+        },
+        {
+          "name": "BestInstallment",
+          "id": "best-installment",
+          "show": [
+            "{{product.paymentMethods}}||",
+            "{{product.installment}}||"
+          ],
+          "layout": {
+            "padding": "8px 8px"
+          }
+        },
+        {
+          "name": "TabPaymentMethods",
+          "id": "payment-methods",
+          "show": [
+            "{{product.paymentMethods}}||",
+            "{{product.installment}}||"
+          ]
+        },
+        {
+          "name": "Shipping",
+          "id": "shipping",
+          "show": [
+            "{{product.available}}",
+            "{{cookies.toggleShipping}}!==DISABLED"
+          ],
+          "layout": {
+            "padding": "8px 8px"
+          },
+          "static": {
+            "toggleAutoShipping": "{{cookies.toggleShipping}}",
+            "mappedErrors": {
+              "Timeout exceeded": "Houve um problema ao calcular o frete. Por favor tente novamente."
+            }
+          }
+        },
+        {
+          "name": "LetMeKnow",
+          "id": "letmeknow",
+          "hide": "{{product.available}}",
+          "static": {
+            "origin": "pdp-mobile",
+            "success": "Cadastro realizado com sucesso. Em breve, você receberá um e-mail de confirmação."
+          },
+          "layout": {
+            "padding": "10px 8px"
+          }
+        },
+        {
+          "name": "TabBuyBox",
+          "id": "tab-buy-box",
+          "show": [
+            "{{product.isBuyBox}}"
+          ],
+          "static": {
+            "label": "Veja mais ofertas para este produto",
+            "sellerPagePath": "/lojista/",
+            "sellerPageSpa": true,
+            "sidebarTitle": "Escolha a melhor oferta",
+            "toggleAutoShipping": "{{cookies.toggleShipping}}"
+          }
+        },
+        {
+          "name": "BuyButtons",
+          "id": "buybutton",
+          "static": {
+            "buyButton": {
+              "icon": "ShoppingBagFast",
+              "label": "Comprar Agora"
+            },
+            "bagButton": {
+              "icon": "ShoppingBag",
+              "variation": "outline",
+              "label": "Adicionar à Sacola"
+            },
+            "storeButton": {
+              "label": "Retirar na Loja",
+              "secondary": "Frete grátis"
+            },
+            "floatBar": {
+              "buttonText": "Adicionar à sacola",
+              "position": "bottom"
+            },
+            "servicesPageLink": "/produto/garantia-plus/{{product.variationId}}"
+          }
+        },
+        {
+          "name": "AlertText",
+          "id": "alert-text",
+          "static": {
+            "linkText": "Saiba mais",
+            "message": {
+              "@if": [
+                {
+                  "property": "{{product.category.id}}",
+                  "op": "eq",
+                  "value": "MO",
+                  "output": "O Magazine Luiza não se responsabiliza pela montagem, instalação ou reparos dos produtos.",
+                  "required": false
+                },
+                {
+                  "property": "{{product.subcategory.id}}",
+                  "op": "contains",
+                  "value": [
+                    "ALCM",
+                    "CHAI",
+                    "MODI",
+                    "MPOL",
+                    "CJDP",
+                    "PDAM",
+                    "PNCP",
+                    "POLT",
+                    "POLR",
+                    "PLTI",
+                    "COES",
+                    "MOSO",
+                    "ESTO",
+                    "SA03",
+                    "SO4O",
+                    "SF5L",
+                    "SF6L",
+                    "MOSC",
+                    "BICA",
+                    "PDAM"
+                  ],
+                  "output": "A tonalidade da cor do tecido pode variar de acordo com o lote do fabricante.",
+                  "required": false
+                },
+                {
+                  "property": "{{product.category.id}}",
+                  "op": "eq",
+                  "value": "BS",
+                  "output": "Atenção: produto para maiores de 18 anos",
+                  "required": false
+                },
+                {
+                  "property": "{{product.subcategory.id}}",
+                  "op": "contains",
+                  "value": [
+                    "BELC",
+                    "CERI",
+                    "CPLL",
+                    "CPTL",
+                    "FALA",
+                    "LTFM",
+                    "LEPO",
+                    "PPNH"
+                  ],
+                  "output": [
+                    "O MINISTÉRIO DA SAÚDE INFORMA:",
+                    "O aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
+                    "Após os 6 (seis) meses de idade, continue amamentando seu filho e ofereça novos alimentos."
+                  ],
+                  "required": false
+                }
+              ]
+            },
+            "intent": "warning",
+            "margin": "0px 8px"
+          }
+        },
+        {
+          "name": "TabProductDetail",
+          "id": "detail",
+          "static": {
+            "label": "Informações do Produto",
+            "detailTitle": "Detalhes do Produto"
+          }
+        },
+        {
+          "name": "TabFactsheet",
+          "id": "factsheet",
+          "static": {
+            "label": "Ficha Técnica",
+            "brandPageUrl": "/marcas/"
+          }
+        },
+        {
+          "name": "TabRating",
+          "id": "tab-rating",
+          "show": "{{review.stats.count}}",
+          "static": {
+            "label": "Avaliações de clientes",
+            "ratingTitle": "Avaliações de clientes",
+            "createReviewUrl": "/{{product.path :replace /p/ /r/}}"
+          }
+        },
+        {
+          "components": [
+            {
+              "name": "QuestionList",
+              "show": "{{questions.sellerInfo.enabled}}",
+              "id": "question-list",
+              "grid_id": "maincontent",
+              "static": {
+                "emptyTitle": "Tire sua dúvida com a loja sobre o produto",
+                "emptyPhrase": "Nenhuma pergunta foi feita ainda. Seja o primeiro!",
+                "paginationText": "Mostrar mais",
+                "limit": 10,
+                "title": "Perguntas e Respostas"
+              },
+              "layout": {
+                "margin": "30px 8px 10px 8px"
+              },
+              "dataSource": {
+                "questions": {
+                  "query": "QuestionsQuery"
+                }
+              },
+              "queryVariables": {
+                "org": "vertical-seller",
+                "itemsPerPage": 10,
+                "questionVariationId": "{{route.productId}}||"
+              }
+            },
+            {
+              "name": "QuestionForm",
+              "show": "{{questions.sellerInfo.enabled}}",
+              "id": "question-form",
+              "grid_id": "maincontent",
+              "static": {
+                "buttonText": {
+                  "authenticated": "Enviar pergunta",
+                  "unauthenticated": "Fazer uma pergunta",
+                  "full": true,
+                  "variation": "fill",
+                  "color": "primary"
+                },
+                "modal": {
+                  "position": "bottom"
+                },
+                "emptyTitle": "Tire sua dúvida com a loja sobre o produto",
+                "emptyPhrase": "Nenhuma pergunta foi feita ainda. Seja o primeiro!",
+                "inputHelper": {
+                  "limit": 140
+                },
+                "limit": 3,
+                "seeMore": {
+                  "text": "Ver mais perguntas",
+                  "show": true
+                },
+                "title": "Perguntas deste anúncio"
+              },
+              "layout": {
+                "margin": "10px 8px 20px 8px"
+              }
+            }
+          ],
+          "grid_id": "maincontent",
+          "type": "group"
+        },
+        {
+          "name": "QuestionFeedback",
+          "show": "{{questions.sellerInfo.enabled}}",
+          "id": "question-feedback"
+        },
+        {
+          "name": "QuestionConfirm",
+          "show": "{{questions.sellerInfo.enabled}}",
+          "id": "question-confirm",
+          "static": {
+            "modal": {
+              "position": "bottom"
+            }
+          }
+        },
+        {
+          "name": "Complaint",
+          "id": "complaint",
+          "show": "{{product.seller.id}}!==magazineluiza",
+          "static": {
+            "linkText": "Denunciar Anúncio",
+            "url": "/denuncie",
+            "textAlign": "right"
+          }
+        },
+        {
+          "name": "Showcase",
+          "id": "product-showcase",
+          "layout": {
+            "padding": "8px 0px"
+          },
+          "lazy": {
+            "layout": {
+              "minHeight": "75vh"
+            }
+          },
+          "static": {
+            "spa": true,
+            "page": "gLBkCddeWQ",
+            "placement": "mspbottom",
+            "productId": "{{product.variationId}}||{{product.id}}",
+            "jsonLD": false,
+            "titleAs": "h2",
+            "productTitleAs": "h3",
+            "layoutChildren": {
+              "margin": "0 8px 20px 8px"
+            },
+            "showInCashLabel": true,
+            "showDiscountOnlyCashInfo": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "name": "Faq",
+          "id": "faq",
+          "show": "{{seoPdpContent.faq}}",
+          "static": {
+            "title": "Perguntas frequentes",
+            "data": "{{seoPdpContent.faq}}"
+          },
+          "dataSource": {
+            "seoPdpContent": {
+              "query": "SeoPdpQuery"
+            }
+          }
+        },
+        {
+          "name": "LuContent",
+          "id": "lucontent",
+          "show": "{{seo.category[0]}}",
+          "static": {
+            "variation": "vertical",
+            "title": "{{seo.category[0].subcategories[0].description}}||",
+            "showDetailModal": false,
+            "linkToMoreContent": "/blog-da-lu/",
+            "assets": {
+              "images": {
+                "luImage": "https://wx.mlcdn.com.br/site/shared/lu-content/lu-pointing.png",
+                "luExplainImage": "https://wx.mlcdn.com.br/site/shared/lu-content/lu-explain.png"
+              }
+            }
+          },
+          "dataSource": {
+            "blogPostsByEcomm": {
+              "query": "BlogPostsByEcommQuery"
+            },
+            "seo": {
+              "query": "SeoQuery"
+            }
+          }
+        },
+        {
+          "name": "TermList",
+          "id": "termlist",
+          "show": [
+            "{{product.terms[0]}}"
+          ],
+          "layout": {
+            "margin": "0px 8px"
+          },
+          "static": {
+            "titleAs": "h2",
+            "title": "Consultas relacionadas:",
+            "terms": "{{product.terms}}",
+            "typeList": "inline",
+            "fontSize": 1,
+            "showAllItems": false,
+            "limitListItems": 10
+          },
+          "dataSource": {
+            "suggest": {
+              "query": "ProductQuery"
+            }
+          },
+          "queryVariables": {
+            "includeTerms": true,
+            "termsSize": 10
+          }
+        },
+        {
+          "name": "Gatekeeper",
+          "id": "gatekeeper",
+          "static": {
+            "waitTime": 5000,
+            "waitPointerTime": 1000,
+            "exhibitionLimit": 2,
+            "appUrl": "https://whda5.app.goo.gl/?link=https://m.magazineluiza.com.br{{asPath}}&apn=com.luizalabs.mlapp&isi=891130066&ibi=br.com.magazineluiza",
+            "textContent": {
+              "title": "Frete Grátis, Cashback",
+              "subtitle": "e outras vantagens só no App",
+              "divisor": "ou",
+              "mainButton": "BAIXAR O APP",
+              "closeGatekeeper": "Continuar navegando no site"
+            }
+          }
+        },
+        {
+          "name": "Footer",
+          "id": "footer",
+          "static": {
+            "footerData": {
+              "rules": "Preços e condições de pagamento exclusivos para compras via internet, podendo variar nas lojas físicas. Ofertas válidas na compra de até 5 peças de cada produto por cliente, até o término dos nossos estoques para internet. Caso os produtos apresentem divergências de valores, o preço válido é o da sacola de compras. Vendas sujeitas a análise e confirmação de dados.",
+              "policy": {
+                "label": "Política de privacidade",
+                "link": "https://especiais.magazineluiza.com.br/politica-de-privacidade/",
+                "rel": "noopener"
+              },
+              "address": [
+                "Magazine Luiza S/A - CNPJ: 47.960.950/1088-36",
+                "Rua Arnulfo de Lima, 2385 - Vila Santa Cruz",
+                "CEP: 14.403-471 - Franca/SP",
+                "Endereço eletrônico: www.magazineluiza.com.br",
+                "www.magazineluiza.com.br/formulariocontato",
+                "® Magazine Luiza – Todos os direitos reservados"
+              ]
+            }
+          }
+        },
+        {
+          "id": "loading",
+          "name": "Loader"
+        }
+      ],
+      "head": [
+        {
+          "name": "Favicon",
+          "id": "favicon",
+          "static": {
+            "icons": [
+              {
+                "rel": "shortcut icon",
+                "href": "https://wx.mlcdn.com.br/site/shared/favicon/favicon-16x16.png"
+              },
+              {
+                "rel": "apple-touch-icon-precomposed",
+                "sizes": "96x96",
+                "href": "https://wx.mlcdn.com.br/site/shared/favicon/favicon-96x96.png"
+              },
+              {
+                "rel": "apple-touch-icon-precomposed",
+                "sizes": "72x72",
+                "href": "https://wx.mlcdn.com.br/site/shared/favicon/favicon-72x72.png"
+              },
+              {
+                "rel": "apple-touch-icon-precomposed",
+                "href": "https://wx.mlcdn.com.br/site/shared/favicon/favicon-57x57.png"
+              },
+              {
+                "rel": "shortcut icon",
+                "type": "image/ico",
+                "href": "https://wx.mlcdn.com.br/site/shared/favicon/favicon-16x16.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Preconnect",
+          "id": "preconnect",
+          "static": {
+            "list": [
+              "https://6590300.fls.doubleclick.net",
+              "https://a-static.mlcdn.com.br/",
+              "https://adservice.google.com.br/",
+              "https://adservice.google.com/",
+              "https://analytics.tiktok.com/",
+              "https://s1.kwai.net/",
+              "https://bat.bing.com/",
+              "https://c.mlcdn.com.br/",
+              "https://cas.avalon.perfdrive.com/",
+              "https://cdn.navdmp.com/",
+              "https://cdn.perfdrive.com/",
+              "https://cm.g.doubleclick.net/",
+              "https://connect.facebook.net/",
+              "https://ct.pinterest.com/",
+              "https://device.4seeresults.com/",
+              "https://dpm.demdex.net/",
+              "https://fonts.gstatic.com/",
+              "https://googleads.g.doubleclick.net/",
+              "https://gum.criteo.com/",
+              "https://i.btg360.com.br/",
+              "https://iosite.reclameaqui.com.br/",
+              "https://mms-assets.magazineluiza.com.br/",
+              "https://pagead2.googlesyndication.com/",
+              "https://pixel.tapad.com/",
+              "https://pubads.g.doubleclick.net/",
+              "https://rgr.bob-recs/",
+              "https://s.mlcdn.com.br/",
+              "https://s.pinimg.com/",
+              "https://s3.amazonaws.com/",
+              "https://script.hotjar.com/",
+              "https://securepubads.g.doubleclick.net/",
+              "https://sp.analytics.yahoo.com/",
+              "https://static.hotjar.com/",
+              "https://stats.g.doubleclick.net/",
+              "https://vars.hotjar.com/",
+              "https://vc.hotjar.io/",
+              "https://www.google-analytics.com/",
+              "https://www.google.com.br/",
+              "https://www.google.com/",
+              "https://www.googletagmanager.com/",
+              "https://www.googletagservices.com/",
+              "https://wx.mlcdn.com.br/",
+              "https://magalu-ads-px.luizalabs.com"
+            ]
+          }
+        },
+        {
+          "name": "Preload",
+          "id": "preload",
+          "static": {
+            "fonts": [
+              {
+                "path": "/mixer/assets/fonts/roboto-v20-latin-regular",
+                "ext": "woff"
+              },
+              {
+                "path": "/mixer/assets/fonts/roboto-v20-latin-regular",
+                "ext": "woff2"
+              },
+              {
+                "path": "/mixer/assets/fonts/roboto-v20-latin-500",
+                "ext": "woff"
+              },
+              {
+                "path": "/mixer/assets/fonts/roboto-v20-latin-500",
+                "ext": "woff2"
+              },
+              {
+                "path": "/mixer/assets/fonts/roboto-v20-latin-700",
+                "ext": "woff"
+              },
+              {
+                "path": "/mixer/assets/fonts/roboto-v20-latin-700",
+                "ext": "woff2"
+              }
+            ]
+          }
+        },
+        {
+          "name": "GoogleTagManagerHead",
+          "id": "googletagmanagerhead",
+          "static": {
+            "id": "GTM-9NCJ"
+          }
+        },
+        {
+          "name": "Stewie",
+          "id": "stewie"
+        },
+        {
+          "name": "AllIn",
+          "id": "allIn"
+        },
+        {
+          "name": "Criteo",
+          "id": "criteo"
+        },
+        {
+          "name": "TikTok",
+          "id": "tiktok",
+          "static": {
+            "id": "C1I87V1T0U322RQPSRKG"
+          }
+        },
+        {
+          "name": "Hotjar",
+          "id": "hotjar"
+        },
+        {
+          "name": "Radware",
+          "id": "radware"
+        },
+        {
+          "name": "MagaluAds",
+          "id": "magaluads",
+          "static": {
+            "id": "magazine_ecomm"
+          }
+        }
+      ],
+      "asPath": "/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/p/hb69h2bd3e/ud/cjpn/",
+      "basePath": "",
+      "canonicalPath": "/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/p/hb69h2bd3e/ud/cjpn/",
+      "config": {
+        "domain": "https://m.magazineluiza.com.br",
+        "canonicalDomain": "https://www.magazineluiza.com.br",
+        "cookieDomain": "{{config.cookieDomain.magazineluiza-mobile}}",
+        "loggedUser": "cookies.accountData.id",
+        "baseLoginUrl": "{{config.cartUrl.magazineluiza-mobile}}/#/cliente/login/?origin=magazineluiza-mobile",
+        "loginUrl": "{{config.cartUrl.magazineluiza-mobile}}/#/cliente/login/?origin=magazineluiza&next={{window.location.href}}",
+        "events": [
+          "GA",
+          "Stewie",
+          "AllIn",
+          "Criteo",
+          "Cookies",
+          "TikTok",
+          "Kwai",
+          "MagaluAds"
+        ],
+        "cartUrl": {
+          "default": "{{config.cartUrl.magazineluiza-mobile}}/#/endereco",
+          "addToBag": "{{config.cartUrl.magazineluiza-mobile}}/#",
+          "pickupStore": "{{config.cartUrl.magazineluiza-mobile}}/#/endereco?tipo=retira-loja",
+          "login": "{{config.cartUrl.magazineluiza-mobile}}/#/cliente/login"
+        },
+        "salesChannelId": "9",
+        "images": {
+          "width": 470,
+          "height": 352
+        },
+        "stewieChannel": "magazine_mobile"
+      },
+      "id": "product",
+      "name": "produto",
+      "private": false,
+      "query": {},
+      "rawPath": "/:productSlug/p/:productId/:categoryId/:subCategoryId/",
+      "route": {
+        "productSlug": "jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc",
+        "productId": "hb69h2bd3e",
+        "categoryId": "UD",
+        "subCategoryId": "CJPN",
+        "filters": [
+          {
+            "origin": "url",
+            "type": "category",
+            "value": "UD"
+          },
+          {
+            "origin": "url",
+            "type": "subcategory",
+            "value": "CJPN"
+          }
+        ]
+      },
+      "site": "magazineluiza-mobile",
+      "theme": {
+        "name": "magazineluiza",
+        "fontFamily": "'Roboto', sans-serif",
+        "colors": {
+          "black": "#010101",
+          "white": "#fefefe",
+          "orange": "#eb8636",
+          "red": "#c00",
+          "silver": "#bcbcbc",
+          "darkSilver": "#4a4a4a",
+          "gray": "#999",
+          "darkGray": "#808080",
+          "green": "#59c00b",
+          "darkGreen": "#479908",
+          "blue": "#0086ff",
+          "darkBlue": "#005eb2"
+        },
+        "palette": {
+          "primary": {
+            "base": "#0086ff",
+            "dark": "#005eb2",
+            "text": "#fefefe"
+          },
+          "secondary": {
+            "base": "#59c00b",
+            "dark": "#479908",
+            "text": "#fefefe"
+          },
+          "error": {
+            "base": "#c00",
+            "text": "#fefefe"
+          },
+          "alert": {
+            "base": "#eb8636",
+            "text": "#fefefe"
+          },
+          "text": {
+            "base": "#404040",
+            "light": "#999",
+            "scratched": " #808080",
+            "lighter": "#bcbcbc",
+            "greyish": "#aaaaaa",
+            "lightest": "#fefefe",
+            "dark": "#010101",
+            "luContentLink": "#a400e1",
+            "footer": "#788089"
+          },
+          "textContrast": {
+            "light": "#999",
+            "dark": "#010101"
+          },
+          "background": {
+            "base": "#f4f4f4",
+            "lighter": "#fff",
+            "darker": "#eee",
+            "whisper": "#e5e5e5",
+            "dark": "#999",
+            "primary": "#0086ff",
+            "primaryDark": "#0073db",
+            "luContentPrimary": "#a400e1",
+            "transparent": "rgba(255, 255, 255, 0.95)"
+          }
+        },
+        "sizes": {
+          "header": "80px",
+          "hotLinks": {
+            "width": "56px",
+            "height": "56px"
+          }
+        },
+        "fonts": {
+          "name": "'Roboto', sans-serif",
+          "variations": {
+            "regular": {
+              "fontFamily": "Roboto",
+              "fontWeight": 400,
+              "fontDisplay": "swap",
+              "fontStyle": "normal",
+              "src": "local('Roboto'), local('Roboto-Regular'), url('/mixer/assets/fonts/roboto-v20-latin-regular.woff2') format('woff2'), url('/mixer/assets/fonts/roboto-v20-latin-regular.woff') format('woff');"
+            },
+            "medium": {
+              "fontFamily": "Roboto",
+              "fontWeight": 500,
+              "fontDisplay": "swap",
+              "fontStyle": "normal",
+              "src": "local('Roboto Medium'), local('Roboto-Medium'), url('/mixer/assets/fonts/roboto-v20-latin-500.woff2') format('woff2'), url('/mixer/assets/fonts/roboto-v20-latin-500.woff') format('woff');"
+            },
+            "bold": {
+              "fontFamily": "Roboto",
+              "fontWeight": 700,
+              "fontDisplay": "swap",
+              "fontStyle": "normal",
+              "src": "local('Roboto Bold'), local('Roboto-Bold'), url('/mixer/assets/fonts/roboto-v20-latin-700.woff2') format('woff2'), url('/mixer/assets/fonts/roboto-v20-latin-700.woff') format('woff');"
+            }
+          }
+        }
+      },
+      "device": "desktop",
+      "isGooglebot": false,
+      "resolvedUrl": "/jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc/p/hb69h2bd3e/ud/cjpn/",
+      "ssr": true,
+      "cookies": {
+        "location": {},
+        "partnerId": "3653",
+        "toggleWishlist": true
+      }
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiTWl4ZXIiLCJjaGFubmVsIjp7Im5hbWUiOiJtaXhlci5tYWdhemluZWx1aXphLmNvbS5iciJ9LCJpYXQiOjE2ODUwODI4MDYsImV4cCI6MTY4NTI5ODgwNn0.bGL0_wL9rRgOwgFrEdAxstukKkVkvmnRHLWUvpwK1UM"
+  },
+  "__N_SSP": true
+},
+"page": "/[path0]/p/[path2]/[path3]/[path4]",
+"query": {
+  "path0": "jogo-panelas-inducao-antiaderente-revestimento-marmore-ceramico-16-pecas-marrom-mgc",
+  "path2": "hb69h2bd3e",
+  "path3": "ud",
+  "path4": "cjpn"
+},
+"buildId": "IpkmHkvX8Rg877A1Ltw00",
+"assetPrefix": "/mixer",
+"runtimeConfig": {
+  "environment": "production",
+  "dataSource": {
+    "host": "https://federation.magazineluiza.com.br",
+    "useAPQ": false,
+    "useGETForHashedQueries": true,
+    "timeout": 8000
+  },
+  "luContent": {
+    "CDN": "https://c.mlcdn.com.br",
+    "paths": {
+      "images": "/{w}x{h}/portaldalu/fotosconteudo/",
+      "audios": "/podcast/"
+    },
+    "portalLu": "https://www.magazineluiza.com.br/portaldalu/busca"
+  },
+  "ads": {
+    "host": "https://securepubads.g.doubleclick.net/gampad/adx"
+  },
+  "cookieDomain": {
+    "default": ".magazineluiza.com.br",
+    "lojinha": "localhost",
+    "magazineluiza-mobile": ".magazineluiza.com.br",
+    "mini-apps": ".magazineluiza.com.br",
+    "magazineluiza": ".magazineluiza.com.br",
+    "parceiromagalu-mobile": ".magazinevoce.com.br",
+    "parceiromagaluempresas-seller": ".magalu.com",
+    "parceiromagaluempresas-customer": ".magazineluiza.com.br"
+  },
+  "percycle": {
+    "host": "https://api-ads.percycle.com/showcase",
+    "token": "b0ca56a69d79b6034e0f035bb75f85bfcddc167bf41573756da71376f0bc829e"
+  },
+  "parceiromagalu": {
+    "rochelle": {
+      "profile-actions": "https://www.magazinevoce.com.br/azion-rochelle-proxy/v1/profile/actions"
+    }
+  },
+  "recommendation": {
+    "timeout": 15000
+  },
+  "shipping": {
+    "timeout": 10000
+  },
+  "review": {
+    "timeout": 10000
+  },
+  "SEO": {
+    "maxFilterTypes": 2,
+    "maxFilterValues": 1,
+    "noIndexQuery": "sfilters=0"
+  },
+  "report": {
+    "host": "https://luizalabs-prod.apigee.net/v1/product/report/",
+    "mail": "produtosuspeito3p@magazineluiza.com.br"
+  },
+  "zipcode": {
+    "popup": {
+      "rejectPopupExpiresInterval": 172800000
+    }
+  },
+  "cartUrl": {
+    "magazineluiza": "https://sacola.magazineluiza.com.br",
+    "magazineluiza-mobile": "https://sacolamobile.magazineluiza.com.br",
+    "parceiromagalu-mobile": "https://sacolamobile.magazinevoce.com.br",
+    "parceiromagaluempresas-customer": "https://sacolamobile-pmedivulgador.magazineluiza.com.br"
+  },
+  "blog": {
+    "domain": "https://www.magazineluiza.com.br"
+  },
+  "kwaiId": 449755305577816600,
+  "searchContext": {
+    "host": "https://federation.magazineluiza.com.br"
+  }
+},
+"isFallback": false,
+"gssp": true,
+"scriptLoader": []
+}
